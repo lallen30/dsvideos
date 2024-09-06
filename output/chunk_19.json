@@ -1,0 +1,6238 @@
+[
+  {
+    "_id": "65e770ba99dad6349d9977d7",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 481,
+    "difficultyScore": 777,
+    "title": "Interview with Calcetin",
+    "level": "superbeginner",
+    "tags": [
+      "puppets",
+      "scenes",
+      "tv",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e77c9f99dad6349d9977d9",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 2038,
+    "difficultyScore": 1448,
+    "title": "Playing Baba Is You #12",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-03-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 12,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e7a16499dad6349d9977db",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1772,
+    "difficultyScore": 1488,
+    "title": "Playing Baba Is You #11",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-03-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 11,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e7bf4999dad6349d9977dd",
+    "seriesId": null,
+    "duration": 1444,
+    "difficultyScore": 1735,
+    "title": "Why Grammar Hurts Your Learning",
+    "level": "intermediate",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-03-07T12:00:00.000Z",
+    "private": false,
+    "endCutout": 175,
+    "episodeNumber": 38,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e7e461d67d7c624931f971",
+    "seriesId": null,
+    "duration": 831,
+    "difficultyScore": 1273,
+    "title": "How to navigate any airport: A guide for new travelers",
+    "level": "beginner",
+    "tags": [
+      "transportation",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e7f52ad67d7c624931f975",
+    "seriesId": null,
+    "duration": 1001,
+    "difficultyScore": 1808,
+    "title": "Natalia Lafourcade: An exquisite Mexican voice",
+    "level": "advanced",
+    "tags": [
+      "music",
+      "mexico",
+      "famous people"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-03-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e80e0bbe4abbe52dc2cc5b",
+    "seriesId": null,
+    "duration": 785,
+    "difficultyScore": 1732,
+    "title": "How the New Year is celebrated in Mexico",
+    "level": "advanced",
+    "tags": [
+      "festivals",
+      "culture",
+      "mexico"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-03-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8200bbe4abbe52dc2cc5d",
+    "seriesId": null,
+    "duration": 824,
+    "difficultyScore": 1609,
+    "title": "Mercado Libre: A Latin American AMAZON?",
+    "level": "advanced",
+    "tags": [
+      "shopping",
+      "internet",
+      "business",
+      "show and tell"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-03-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8b053def9ded83c28a9f4",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 837,
+    "difficultyScore": 1837,
+    "title": "These Slow-Cooked Achiote Citrus Pork Tacos Will Blow Your Mind",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell",
+      "cooking"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-10T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8bda1def9ded83c28a9f6",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 245,
+    "difficultyScore": 894,
+    "title": "My first time eating this funny-looking fruit!",
+    "level": "superbeginner",
+    "tags": [
+      "colombia",
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8c193def9ded83c28a9f8",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 294,
+    "difficultyScore": 918,
+    "title": "Let’s try these tiny coconuts!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "colombia",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-17T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8c4bfdef9ded83c28a9fa",
+    "seriesId": null,
+    "duration": 1843,
+    "difficultyScore": 1805,
+    "title": "Can Spanish Speakers Understand Catalan?",
+    "level": "intermediate",
+    "tags": [
+      "language",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-21T12:00:00.000Z",
+    "private": false,
+    "endCutout": 198,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8da6cdef9ded83c28a9fc",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 1048,
+    "difficultyScore": 1687,
+    "title": "The BEST Marinated Grilled Fish You Will EVER Have",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8e7c4def9ded83c28a9fe",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 244,
+    "difficultyScore": 606,
+    "title": "Guess the movie with Calcetin",
+    "level": "superbeginner",
+    "tags": [
+      "scenes",
+      "movies",
+      "puppets",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8eafedef9ded83c28aa00",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 317,
+    "difficultyScore": 481,
+    "title": "Guess where we are (Spoiler alert: It’s not Canada!)",
+    "level": "superbeginner",
+    "tags": [
+      "conversations",
+      "scenes",
+      "puppets",
+      "mexico"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e8eefddef9ded83c28aa02",
+    "seriesId": null,
+    "duration": 627,
+    "difficultyScore": 2051,
+    "title": "Michelle’s SAVAGE Revenge",
+    "level": "advanced",
+    "tags": [
+      "personal stories",
+      "love & relationships",
+      "conversations"
+    ],
+    "guides": [
+      "Alma",
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-23T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65e97de5def9ded83c28aa04",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 546,
+    "difficultyScore": 1660,
+    "title": "Nike: The Empire That Started In A Parking Lot",
+    "level": "advanced",
+    "tags": [
+      "history",
+      "business",
+      "sports"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65eb2b3fdef9ded83c28aa19",
+    "seriesId": null,
+    "duration": 546,
+    "difficultyScore": 1194,
+    "title": "Spanish Man Does Laundry",
+    "level": "beginner",
+    "tags": [
+      "how-to",
+      "clothes",
+      "humor",
+      "show and tell"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-17T12:00:00.000Z",
+    "private": false,
+    "endCutout": 158,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65ef169edef9ded83c28aa25",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 295,
+    "difficultyScore": 678,
+    "title": "Dragon fruit is delicious!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "colombia",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65ef1cdedef9ded83c28aa27",
+    "seriesId": "65f3593d3f7fb6320ac5c8b4",
+    "duration": 1796,
+    "difficultyScore": 1960,
+    "title": "Are high school years the best of your life?",
+    "level": "advanced",
+    "tags": [
+      "school",
+      "conversations",
+      "personal stories"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f023081e512515e7f7c79c",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 654,
+    "difficultyScore": 1683,
+    "title": "A Must-Try Yucatecan Midnight Snack",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f033da1e512515e7f7c79e",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 253,
+    "difficultyScore": 820,
+    "title": "This fruit makes your hair grow faster?!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "show and tell",
+      "colombia"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f05ef0b11e3bd961d994fa",
+    "seriesId": null,
+    "duration": 341,
+    "difficultyScore": 835,
+    "title": "Haul: Things I bought in Morocco!",
+    "level": "beginner",
+    "tags": [
+      "shopping",
+      "show and tell"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0392c1e512515e7f7c7a0",
+    "seriesId": "65f3593d3f7fb6320ac5c8b4",
+    "duration": 2025,
+    "difficultyScore": 1788,
+    "title": "Is university all it's made up to be?",
+    "level": "advanced",
+    "tags": [
+      "school",
+      "personal stories",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f06773b11e3bd961d994fd",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 972,
+    "difficultyScore": 1276,
+    "title": "Geoguessr: Around the world mode! Ep. 5",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0778db11e3bd961d994ff",
+    "seriesId": null,
+    "duration": 362,
+    "difficultyScore": 1096,
+    "title": "A day in my life in the new year",
+    "level": "beginner",
+    "tags": [
+      "humor",
+      "scenes",
+      "daily life"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f07f4ab11e3bd961d99501",
+    "seriesId": "65e1fc3e42eef6c9d940fd96",
+    "duration": 421,
+    "difficultyScore": 738,
+    "title": "Guess the drink",
+    "level": "beginner",
+    "tags": [
+      "let's play games",
+      "conversations",
+      "drinks"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0857ab11e3bd961d99503",
+    "seriesId": "65eb2748def9ded83c28aa0e",
+    "duration": 531,
+    "difficultyScore": 1546,
+    "title": "Finding the spy Season 2 Ep. 5",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Pablo",
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f09153b11e3bd961d99505",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 654,
+    "difficultyScore": 1463,
+    "title": "Why do we laugh?",
+    "level": "intermediate",
+    "tags": [
+      "science",
+      "body"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f09e15b11e3bd961d99507",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 555,
+    "difficultyScore": 779,
+    "title": "Calcetin’s new project",
+    "level": "superbeginner",
+    "tags": [
+      "scenes",
+      "puppets",
+      "science"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0aa53b11e3bd961d99509",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 467,
+    "difficultyScore": 1355,
+    "title": "Colombia’s Most Amazing Natural Parks",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "nature"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-03-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0b440b11e3bd961d9950b",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 223,
+    "difficultyScore": 500,
+    "title": "Calcetin goes on a second date",
+    "level": "superbeginner",
+    "tags": [
+      "puppets",
+      "scenes",
+      "love & relationships",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0b985b11e3bd961d9950d",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 2076,
+    "difficultyScore": 1469,
+    "title": "Playing Baba Is You #13",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-03-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 13,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0d85d33c6286f42920028",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1404,
+    "difficultyScore": 2084,
+    "title": "The Origins of Mexican Football",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-03-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f0f48d33c6286f4292002a",
+    "seriesId": null,
+    "duration": 629,
+    "difficultyScore": 1781,
+    "title": "Alma’s REVENGE On Her BEST FRIEND",
+    "level": "advanced",
+    "tags": [
+      "friendship",
+      "personal stories",
+      "conversations"
+    ],
+    "guides": [
+      "Alma",
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f16397b9165aadc89715dc",
+    "seriesId": null,
+    "duration": 957,
+    "difficultyScore": 1154,
+    "title": "Argentinian Girl Shows You Around Portugal!",
+    "level": "beginner",
+    "tags": [
+      "tourism & travel",
+      "food",
+      "restaurants",
+      "i show you around"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-24T12:00:00.000Z",
+    "private": false,
+    "endCutout": 175,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1705aab5382b3f1e71956",
+    "seriesId": "65dc5bfcd1e386f4ce852aef",
+    "duration": 446,
+    "difficultyScore": 1595,
+    "title": "How to survive in the desert",
+    "level": "intermediate",
+    "tags": [
+      "how-to",
+      "nature"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f178d6ab5382b3f1e71958",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 1378,
+    "difficultyScore": 1738,
+    "title": "This Spicy Yucatecan Soup is Only for THE BRAVE",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-03-31T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f18793ab5382b3f1e7195a",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 375,
+    "difficultyScore": 1612,
+    "title": "Tejo: Colombia's Explosive Sport!",
+    "level": "intermediate",
+    "tags": [
+      "sports",
+      "colombia"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f18bcfab5382b3f1e7195c",
+    "seriesId": null,
+    "duration": 518,
+    "difficultyScore": 1123,
+    "title": "This is how much I spend in Cancun in ONE DAY (SHOCKING)",
+    "level": "beginner",
+    "tags": [
+      "mexico",
+      "i show you around",
+      "money"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f191deab5382b3f1e7195e",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 396,
+    "difficultyScore": 1466,
+    "title": "Why can’t we breathe and swallow at the same time?",
+    "level": "intermediate",
+    "tags": [
+      "body",
+      "science"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f19604ab5382b3f1e71960",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1552,
+    "difficultyScore": 1595,
+    "title": "Playing Baba Is You #14",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-04-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 14,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1a223ab5382b3f1e71962",
+    "seriesId": "65eb2748def9ded83c28aa0e",
+    "duration": 754,
+    "difficultyScore": 1462,
+    "title": "Finding the spy Season 2 Ep. 6",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Pablo",
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1b907f0fd270dcec91877",
+    "seriesId": "65f3593d3f7fb6320ac5c8b4",
+    "duration": 1777,
+    "difficultyScore": 1861,
+    "title": "Home makeovers & dream dwellings",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "home"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1ab63ab5382b3f1e71964",
+    "seriesId": "65f3593d3f7fb6320ac5c8b4",
+    "duration": 1396,
+    "difficultyScore": 1963,
+    "title": "What scares us most?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "feelings"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-31T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1cafff0fd270dcec9187a",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 1239,
+    "difficultyScore": 1250,
+    "title": "Geoguessr: Around the world mode! Ep 6",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1d591f0fd270dcec9187c",
+    "seriesId": null,
+    "duration": 211,
+    "difficultyScore": 1106,
+    "title": "How to be a true METALHEAD",
+    "level": "beginner",
+    "tags": [
+      "humor",
+      "music",
+      "how-to"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1d82ff0fd270dcec9187e",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1939,
+    "difficultyScore": 1972,
+    "title": "Mexico’s Most Popular Soccer Teams",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f1eb7a33eff01690d52b08",
+    "seriesId": "65dc5bfcd1e386f4ce852aef",
+    "duration": 535,
+    "difficultyScore": 1611,
+    "title": "How to survive tropical areas",
+    "level": "intermediate",
+    "tags": [
+      "how-to",
+      "nature"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f2d56b33eff01690d52b0a",
+    "seriesId": null,
+    "duration": 838,
+    "difficultyScore": 1952,
+    "title": "Michelle’s night out had BIG consequences",
+    "level": "advanced",
+    "tags": [
+      "personal stories",
+      "conversations"
+    ],
+    "guides": [
+      "Alma",
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f30b853f7fb6320ac5c8b1",
+    "seriesId": null,
+    "duration": 798,
+    "difficultyScore": 1912,
+    "title": "The Normalization of Doping in Sports",
+    "level": "advanced",
+    "tags": [
+      "drugs",
+      "sports",
+      "health"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-03-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f30483975abc8518669ec4",
+    "seriesId": null,
+    "duration": 686,
+    "difficultyScore": 1055,
+    "title": "How I Make My Videos for Dreaming Spanish",
+    "level": "beginner",
+    "tags": [
+      "work",
+      "video making",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-31T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f404c53f7fb6320ac5c8c2",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 523,
+    "difficultyScore": 1627,
+    "title": "The First Ever Sports Drink: Gatorade",
+    "level": "advanced",
+    "tags": [
+      "drinks",
+      "business",
+      "sports"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f40ee83f7fb6320ac5c8c4",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 664,
+    "difficultyScore": 1642,
+    "title": "Fast Food Pioneers: The Making of McDonald’s",
+    "level": "advanced",
+    "tags": [
+      "restaurants",
+      "food",
+      "business"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-03-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f41d05b328a46197432232",
+    "seriesId": null,
+    "duration": 528,
+    "difficultyScore": 1311,
+    "title": "NEVER say this in Spanish",
+    "level": "intermediate",
+    "tags": [
+      "language learning",
+      "scenes",
+      "humor"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-03-28T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "65f423c6b328a46197432234",
+    "seriesId": "66196c94ed9771ed89c6a7d3",
+    "duration": 323,
+    "difficultyScore": 444,
+    "title": "The egg",
+    "level": "superbeginner",
+    "tags": [
+      "puppets",
+      "scenes",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601915eb328a46197432236",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 470,
+    "difficultyScore": 1068,
+    "title": "Why you must visit Cartagena",
+    "level": "beginner",
+    "tags": [
+      "i show you around",
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-03-31T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601af1a339f8eae73ac49af",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 568,
+    "difficultyScore": 1068,
+    "title": "Where to stay: Best areas for your trip to Cartagena",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601a9f3b328a46197432238",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 485,
+    "difficultyScore": 1644,
+    "title": "Coke: The Drink Created to Escape Morphine Addiction",
+    "level": "advanced",
+    "tags": [
+      "business",
+      "drinks",
+      "real stories"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601c7cd23bd6e8a14248b77",
+    "seriesId": null,
+    "duration": 708,
+    "difficultyScore": 1674,
+    "title": "The Empire State Building - New York City, USA",
+    "level": "advanced",
+    "tags": [
+      "art",
+      "united states",
+      "culture"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601b8932ec152cdb82a0433",
+    "seriesId": null,
+    "duration": 1385,
+    "difficultyScore": 1381,
+    "title": "Can You Understand This EASY Spanish Conversation?",
+    "level": "intermediate",
+    "tags": [
+      "conversations",
+      "colombia"
+    ],
+    "guides": [
+      "Natalia",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-04T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601d0bfad9c9f07abd46897",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 488,
+    "difficultyScore": 1079,
+    "title": "Cartagena: The Good, the Bad and the Ugly",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6601d5a3ad9c9f07abd46899",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 510,
+    "difficultyScore": 1653,
+    "title": "Nascar: A Story of Alcohol, Contraband, and Escaping the Police",
+    "level": "advanced",
+    "tags": [
+      "business",
+      "sports",
+      "real stories"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660404feee58c1e19bc09166",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 434,
+    "difficultyScore": 1089,
+    "title": "When is the best time to visit Cartagena?",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6605a9fdee58c1e19bc0916c",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 327,
+    "difficultyScore": 752,
+    "title": "Looks strange but tastes delicious!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "colombia",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6605b2c1804927de3a924575",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 4272,
+    "difficultyScore": 2051,
+    "title": "The Future of Our Jobs in the ChatGPT Era",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "work",
+      "society",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-07T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6606f448804927de3a924579",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 1330,
+    "difficultyScore": 1704,
+    "title": "Romance Scam #1: The Navy Girl",
+    "level": "advanced",
+    "tags": [
+      "real stories",
+      "internet",
+      "love & relationships",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-08T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66070381804927de3a92457b",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 286,
+    "difficultyScore": 724,
+    "title": "Trying uchuvas for the first time!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "colombia",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6607ca9a804927de3a924589",
+    "seriesId": null,
+    "duration": 531,
+    "difficultyScore": 1845,
+    "title": "Come with me to a Japanese buffet",
+    "level": "advanced",
+    "tags": [
+      "restaurants",
+      "i show you around",
+      "food"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6607d2ec804927de3a92458b",
+    "seriesId": null,
+    "duration": 1322,
+    "difficultyScore": 1862,
+    "title": "Step into an ancient sweat lodge ritual with us",
+    "level": "advanced",
+    "tags": [
+      "i show you around",
+      "culture",
+      "family",
+      "belief"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6607e682804927de3a92458d",
+    "seriesId": null,
+    "duration": 1713,
+    "difficultyScore": 2080,
+    "title": "Our honest opinion of Morocco (+ travel tips!)",
+    "level": "advanced",
+    "tags": [
+      "tourism & travel"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6607fb134d218ffd6a15a481",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 241,
+    "difficultyScore": 864,
+    "title": "The perfect fruit for weight loss?",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "colombia",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6607fda94d218ffd6a15a483",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 2162,
+    "difficultyScore": 1319,
+    "title": "Geoguessr: Around the world mode! Ep. 7",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660d568358f2f413e2c70704",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 307,
+    "difficultyScore": 720,
+    "title": "This crunchy fruit will surprise you",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660eae6f58f2f413e2c70708",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 233,
+    "difficultyScore": 722,
+    "title": "This fruit is great for your skin!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660eb26a58f2f413e2c7070a",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 1120,
+    "difficultyScore": 1888,
+    "title": "Romance Scam #2: The Beautiful Lawyer",
+    "level": "advanced",
+    "tags": [
+      "real stories",
+      "internet",
+      "love & relationships",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-18T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660ebf5f58f2f413e2c7070c",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 885,
+    "difficultyScore": 1905,
+    "title": "Romance Scam #3: My mom got scammed (True story)",
+    "level": "advanced",
+    "tags": [
+      "personal stories",
+      "love & relationships",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "660ec9bf58f2f413e2c7070e",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 629,
+    "difficultyScore": 1388,
+    "title": "Geoguessr: Around the world mode! Ep. 8",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f6ff012ff04264d87b6e4",
+    "seriesId": null,
+    "duration": 935,
+    "difficultyScore": 934,
+    "title": "Colombian Girl REACTS to Japanese Snacks",
+    "level": "beginner",
+    "tags": [
+      "food",
+      "japan",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-07T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f794712ff04264d87b6e6",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 463,
+    "difficultyScore": 1287,
+    "title": "What did I study?",
+    "level": "beginner",
+    "tags": [
+      "personal stories",
+      "school",
+      "oneself"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f7c5b12ff04264d87b6e8",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 1014,
+    "difficultyScore": 1224,
+    "title": "My family tree (Extended version)",
+    "level": "beginner",
+    "tags": [
+      "family",
+      "oneself"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f827312ff04264d87b6ea",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 594,
+    "difficultyScore": 1221,
+    "title": "How I became a rebellious teenager",
+    "level": "beginner",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f866312ff04264d87b6ec",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 585,
+    "difficultyScore": 1167,
+    "title": "Andrés, the terrible kid",
+    "level": "beginner",
+    "tags": [
+      "oneself",
+      "personal stories",
+      "children"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-09T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f8a5a12ff04264d87b6ee",
+    "seriesId": "65eb2748def9ded83c28aa0e",
+    "duration": 919,
+    "difficultyScore": 1514,
+    "title": "Finding the spy Season 2 Ep. 8",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Pablo",
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f95cc12ff04264d87b6f0",
+    "seriesId": "65eb2748def9ded83c28aa0e",
+    "duration": 815,
+    "difficultyScore": 1444,
+    "title": "Finding the spy Season 2 Ep. 7",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Pablo",
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "660f9fb012ff04264d87b6f2",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3756,
+    "difficultyScore": 2045,
+    "title": "Will AI Diminish the Value of Work?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "work",
+      "society",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "660fc7130f15f9e66e7ecbf0",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 2960,
+    "difficultyScore": 2103,
+    "title": "Is AI Committing Copyright Infringement?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "work",
+      "law",
+      "art",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "660fe7480f15f9e66e7ecbf2",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3491,
+    "difficultyScore": 2036,
+    "title": "Will AI Replace Dreaming Spanish?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "work",
+      "dreaming spanish",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66100c1876c12c83136d7be2",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 331,
+    "difficultyScore": 1048,
+    "title": "Instagram-worthy spots in Cartagena!",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66100f4576c12c83136d7be4",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 364,
+    "difficultyScore": 999,
+    "title": "Where to party in Cartagena",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel",
+      "leisure"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661012c976c12c83136d7be6",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 344,
+    "difficultyScore": 1012,
+    "title": "Fun activities to do in Cartagena",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel",
+      "leisure"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6610165b76c12c83136d7be8",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 433,
+    "difficultyScore": 1093,
+    "title": "Best restaurants in Cartagena",
+    "level": "beginner",
+    "tags": [
+      "restaurants",
+      "colombia",
+      "i show you around",
+      "show and tell"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66101af576c12c83136d7bea",
+    "seriesId": "66143aa5dbd1e12b9b2da878",
+    "duration": 395,
+    "difficultyScore": 1040,
+    "title": "What NOT to do in Cartagena",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66101ed076c12c83136d7bec",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 1401,
+    "difficultyScore": 1802,
+    "title": "A Ground Meat Delight Encased in Gooey Cheese",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6610320b8ac6eb7ac8db3225",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 873,
+    "difficultyScore": 1681,
+    "title": "Yucatán's Breakfast Gem",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell",
+      "i show you around"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66103e90d45881d0a5f59202",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 244,
+    "difficultyScore": 1320,
+    "title": "Why do we twitch before falling asleep?",
+    "level": "intermediate",
+    "tags": [
+      "science",
+      "body"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661041982348da658b1bec55",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 316,
+    "difficultyScore": 1533,
+    "title": "Why do we have baby teeth?",
+    "level": "intermediate",
+    "tags": [
+      "science",
+      "body",
+      "children"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661045312348da658b1bec57",
+    "seriesId": "65dc5bfcd1e386f4ce852aef",
+    "duration": 440,
+    "difficultyScore": 1590,
+    "title": "How to survive an alien attack",
+    "level": "intermediate",
+    "tags": [
+      "how-to",
+      "science fiction"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661049d92348da658b1bec59",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 372,
+    "difficultyScore": 1404,
+    "title": "The Art and Tradition of Colombian Coffee",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "drinks",
+      "culture"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66104e25ec96a4482b91e350",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1646,
+    "difficultyScore": 1491,
+    "title": "Playing Baba Is You #16",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-04-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 16,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66105998ec96a4482b91e352",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 2645,
+    "difficultyScore": 1432,
+    "title": "Playing Baba Is You #15",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-04-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 15,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66106f9ec87c336813b2a7cf",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1190,
+    "difficultyScore": 2030,
+    "title": "Eternal Rivals: The Tigres vs Monterrey Saga",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66107b7ac87c336813b2a7d1",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1386,
+    "difficultyScore": 1962,
+    "title": "Eternal Rivals: The América vs Guadalajara Saga",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661088f0c87c336813b2a7d3",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 305,
+    "difficultyScore": 1393,
+    "title": "Colombia’s Unique Biodiversity",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "nature"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66108c40c87c336813b2a7d5",
+    "seriesId": null,
+    "duration": 426,
+    "difficultyScore": 1831,
+    "title": "Why do we procrastinate?",
+    "level": "advanced",
+    "tags": [
+      "psychology",
+      "self-improvement"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66109237c87c336813b2a7d7",
+    "seriesId": null,
+    "duration": 2152,
+    "difficultyScore": 1346,
+    "title": "You never knew these countries EXISTED!",
+    "level": "intermediate",
+    "tags": [
+      "geography"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66143588dbd1e12b9b2da876",
+    "seriesId": "6602be57ad9c9f07abd4689d",
+    "duration": 478,
+    "difficultyScore": 1529,
+    "title": "Kellogg’s Corn Flakes: The anaphrodisiac breakfast",
+    "level": "advanced",
+    "tags": [
+      "food",
+      "business",
+      "real stories"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6614f66cdbd1e12b9b2da883",
+    "seriesId": null,
+    "duration": 595,
+    "difficultyScore": 1426,
+    "title": "Problems of Being Left-Handed",
+    "level": "intermediate",
+    "tags": [
+      "abilities",
+      "body"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-11T12:00:00.000Z",
+    "private": false,
+    "endCutout": 75,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6615402b9df495846d5700bd",
+    "seriesId": null,
+    "duration": 956,
+    "difficultyScore": 1162,
+    "title": "Argentinian Girl Shows You Around Morocco!",
+    "level": "beginner",
+    "tags": [
+      "tourism & travel",
+      "i show you around"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-14T12:00:00.000Z",
+    "private": false,
+    "endCutout": 198,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6619499a9df495846d5700d1",
+    "seriesId": null,
+    "duration": 1279,
+    "difficultyScore": 1875,
+    "title": "TRUE CRIME in Slow Spanish: How They Got Away With $20M",
+    "level": "advanced",
+    "tags": [
+      "real stories",
+      "crime",
+      "argentina"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-18T12:00:00.000Z",
+    "private": false,
+    "endCutout": 135,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66195b68ed9771ed89c6a7c7",
+    "seriesId": null,
+    "duration": 858,
+    "difficultyScore": 1450,
+    "title": "EASY SPANISH - Is the Earth FLAT?",
+    "level": "beginner",
+    "tags": [
+      "science",
+      "humor"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-21T12:00:00.000Z",
+    "private": false,
+    "endCutout": 158,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661ce989ed9771ed89c6a7de",
+    "seriesId": "6602d9bcad9c9f07abd468a5",
+    "duration": 350,
+    "difficultyScore": 715,
+    "title": "My first time eating passion fruit!",
+    "level": "superbeginner",
+    "tags": [
+      "food",
+      "show and tell",
+      "colombia"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661ced3eed9771ed89c6a7e0",
+    "seriesId": null,
+    "duration": 513,
+    "difficultyScore": 683,
+    "title": "Things That Mexicans Just CANNOT Stand",
+    "level": "superbeginner",
+    "tags": [
+      "mexico",
+      "culture",
+      "humor"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d02bbc59d54af1bb03bf6",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 732,
+    "difficultyScore": 1812,
+    "title": "Romance Scam #4: The Sexy Soldier",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "internet",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d0a31c59d54af1bb03bf8",
+    "seriesId": null,
+    "duration": 583,
+    "difficultyScore": 1814,
+    "title": "A conversation with… my roommate",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "technology"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d1067c59d54af1bb03bfa",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 670,
+    "difficultyScore": 1361,
+    "title": "All the jobs I’ve had",
+    "level": "beginner",
+    "tags": [
+      "work",
+      "personal stories"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d147c85242bee0cd0386e",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3469,
+    "difficultyScore": 2092,
+    "title": "If Everything Can Be Fake, Will We Be Able to Believe Anything?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "society",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-23T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d3b8a85242bee0cd03870",
+    "seriesId": null,
+    "duration": 807,
+    "difficultyScore": 1841,
+    "title": "I got my wisdom tooth removed!",
+    "level": "advanced",
+    "tags": [
+      "health",
+      "body",
+      "personal stories"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-04-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d504cef14b4fa1e214452",
+    "seriesId": null,
+    "duration": 593,
+    "difficultyScore": 1859,
+    "title": "This is what your cup means about our friendship!",
+    "level": "advanced",
+    "tags": [
+      "friendship",
+      "oneself"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d56bcef14b4fa1e214454",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 897,
+    "difficultyScore": 1886,
+    "title": "Romance Scam #7: She would have done ANYTHING for her secret boyfriend",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d446c85242bee0cd03876",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 1109,
+    "difficultyScore": 1767,
+    "title": "Romance Scam #5: She found Prince Charming on Christian Mingle",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "internet",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d61ffef14b4fa1e214457",
+    "seriesId": null,
+    "duration": 855,
+    "difficultyScore": 1253,
+    "title": "How much does Shel know about Spain?",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "let's play games",
+      "colombia",
+      "culture"
+    ],
+    "guides": [
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d6bf65669745b1b0dfb44",
+    "seriesId": null,
+    "duration": 761,
+    "difficultyScore": 1167,
+    "title": "How much does Andrés know about Colombia?",
+    "level": "beginner",
+    "tags": [
+      "let's play games",
+      "colombia",
+      "conversations",
+      "culture"
+    ],
+    "guides": [
+      "Shelcin",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d74535669745b1b0dfb46",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 992,
+    "difficultyScore": 1815,
+    "title": "Romance Scam #6: She sent him 250K",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-04-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d7f3f5669745b1b0dfb48",
+    "seriesId": null,
+    "duration": 1035,
+    "difficultyScore": 862,
+    "title": "THIS or THAT - What would you choose?",
+    "level": "beginner",
+    "tags": [
+      "games",
+      "conversations"
+    ],
+    "guides": [
+      "Natalia",
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d8af35669745b1b0dfb4a",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 910,
+    "difficultyScore": 1312,
+    "title": "Geoguessr: Around the world mode! Ep. 10",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d92d75669745b1b0dfb4c",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 904,
+    "difficultyScore": 1237,
+    "title": "Geoguessr: Around the world mode! Ep. 9",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661d9bdb5669745b1b0dfb50",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 476,
+    "difficultyScore": 703,
+    "title": "Guess the Disney character Ep. 3",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661da1105669745b1b0dfb52",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3785,
+    "difficultyScore": 1894,
+    "title": "Will AI Make for Better Friends and Lovers Than Real People?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "society",
+      "love & relationships",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661dcc7b5669745b1b0dfb54",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 1558,
+    "difficultyScore": 1811,
+    "title": "You Will LOVE This Mayan Grilled Pork",
+    "level": "intermediate",
+    "tags": [
+      "food",
+      "show and tell",
+      "i show you around",
+      "mexico"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661dde065669745b1b0dfb56",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 343,
+    "difficultyScore": 1158,
+    "title": "How did I meet Xin?",
+    "level": "beginner",
+    "tags": [
+      "love & relationships",
+      "personal stories"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661de0765669745b1b0dfb58",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 677,
+    "difficultyScore": 1346,
+    "title": "How many girlfriends have I had?",
+    "level": "beginner",
+    "tags": [
+      "personal stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661de49a5669745b1b0dfb5a",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 307,
+    "difficultyScore": 1442,
+    "title": "Nobel Prize Winner for Literature: Gabriel García Marquez",
+    "level": "intermediate",
+    "tags": [
+      "famous people",
+      "literature"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-04T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661de8225669745b1b0dfb5c",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 436,
+    "difficultyScore": 1367,
+    "title": "A gorgeous and charismatic actress: Sofia Vergara",
+    "level": "intermediate",
+    "tags": [
+      "famous people"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-24T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661ded025669745b1b0dfb5e",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3690,
+    "difficultyScore": 2037,
+    "title": "From Now to Next: How We Use Generative AI and What’s Ahead",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "video making",
+      "dreaming spanish",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e14fb5669745b1b0dfb60",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 396,
+    "difficultyScore": 1467,
+    "title": "Why do we get goosebumps?",
+    "level": "intermediate",
+    "tags": [
+      "science",
+      "body"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e19695669745b1b0dfb62",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 302,
+    "difficultyScore": 1515,
+    "title": "Colombian Emeralds: The Green Heart of Latin America",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "nature"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e1cac5669745b1b0dfb64",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 492,
+    "difficultyScore": 1453,
+    "title": "The Vibrant World of Colombian Music",
+    "level": "intermediate",
+    "tags": [
+      "music",
+      "colombia",
+      "culture"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e22255669745b1b0dfb66",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1570,
+    "difficultyScore": 1455,
+    "title": "Playing Baba Is You #18",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-05-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 18,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e2e608dc1e2f20a36d887",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 2325,
+    "difficultyScore": 1495,
+    "title": "Playing Baba Is You #17",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-04-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 17,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e412b8dc1e2f20a36d889",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1307,
+    "difficultyScore": 1986,
+    "title": "The Journey of Youth Academy Players",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e4d7d8dc1e2f20a36d88b",
+    "seriesId": "661822cb9df495846d5700c5",
+    "duration": 239,
+    "difficultyScore": 1298,
+    "title": "Why do we have boogers?",
+    "level": "intermediate",
+    "tags": [
+      "science",
+      "body",
+      "health"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-04-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e500d8dc1e2f20a36d88d",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1242,
+    "difficultyScore": 1938,
+    "title": "Chicharito: Scoring Against Odds",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661cf326ed9771ed89c6a7e2",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1531,
+    "difficultyScore": 2013,
+    "title": "The 12th Player: Mexico's Football Supporters",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "661e5c3d81387436268878a1",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1378,
+    "difficultyScore": 2061,
+    "title": "Hugo Sánchez: Mexico's Soaring Eagle",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-04-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "662262bb81387436268878ad",
+    "seriesId": null,
+    "duration": 793,
+    "difficultyScore": 1572,
+    "title": "Am I a REAL Latina?",
+    "level": "intermediate",
+    "tags": [
+      "culture",
+      "latin america",
+      "united states",
+      "appearance",
+      "society"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-02T12:00:00.000Z",
+    "private": false,
+    "endCutout": 198,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6622d5f3777ecd5a4629d6b2",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 607,
+    "difficultyScore": 768,
+    "title": "Guess the Disney character Ep. 1",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-23T12:00:00.000Z",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6622bdb681387436268878af",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 1876,
+    "difficultyScore": 1790,
+    "title": "Explore Buenos Aires: Where History Meets Art",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel",
+      "culture",
+      "i show you around"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-23T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "662777aeaf0b443dc42fd5d1",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 530,
+    "difficultyScore": 777,
+    "title": "Guess the Disney character Ep. 2",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66277d74af0b443dc42fd5d3",
+    "seriesId": "6602d9dead9c9f07abd468b6",
+    "duration": 1009,
+    "difficultyScore": 1686,
+    "title": "Mexican Mondays: A Day for Frijol con Puerco!",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "food",
+      "show and tell",
+      "i show you around"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-04-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "662788c4af0b443dc42fd5d5",
+    "seriesId": null,
+    "duration": 1693,
+    "difficultyScore": 1626,
+    "title": "LEARN SPANISH WITH THIS CONVERSATION",
+    "level": "intermediate",
+    "tags": [
+      "friendship",
+      "challenges",
+      "conversations",
+      "oneself"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-04-25T12:00:00.000Z",
+    "private": false,
+    "endCutout": 136,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66279addaf0b443dc42fd5d7",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 983,
+    "difficultyScore": 1690,
+    "title": "Explore Buenos Aires: The City’s Vibrant Core",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-04-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6627a70baf0b443dc42fd5f5",
+    "seriesId": null,
+    "duration": 1392,
+    "difficultyScore": 1226,
+    "title": "EASY SPANISH: Guess the sound",
+    "level": "beginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-04-28T12:00:00.000Z",
+    "private": false,
+    "endCutout": 154,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6627b62caf0b443dc42fd5f7",
+    "seriesId": null,
+    "duration": 781,
+    "difficultyScore": 1469,
+    "title": "Society of the Snow",
+    "level": "beginner",
+    "tags": [
+      "movies",
+      "real stories"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6627bb11af0b443dc42fd5f9",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 531,
+    "difficultyScore": 801,
+    "title": "Guess the Disney character  Ep. 5",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6627f301af0b443dc42fd5fb",
+    "seriesId": "6627a6e0af0b443dc42fd5e2",
+    "duration": 389,
+    "difficultyScore": 1282,
+    "title": "What I want for the future",
+    "level": "beginner",
+    "tags": [
+      "oneself"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6627f5d0af0b443dc42fd5fd",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 370,
+    "difficultyScore": 651,
+    "title": "Guess the Disney character Ep. 6",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6628e355af0b443dc42fd5ff",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1037,
+    "difficultyScore": 1348,
+    "title": "Keep talking and nobody explodes Ep. 1",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-07T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6628ed4daf0b443dc42fd601",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 975,
+    "difficultyScore": 1570,
+    "title": "Explore Buenos Aires: A Chic Waterfront Oasis",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6628fbc3af0b443dc42fd603",
+    "seriesId": null,
+    "duration": 813,
+    "difficultyScore": 1007,
+    "title": "8 SHOCKING FACTS ABOUT COLOMBIA",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "culture"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-05T12:00:00.000Z",
+    "private": false,
+    "endCutout": 154,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66294804af0b443dc42fd605",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 751,
+    "difficultyScore": 1799,
+    "title": "Romance Scam #8: The Bitcoin Queen",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "internet",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "662b9924af0b443dc42fd61b",
+    "seriesId": "662bbaa4af0b443dc42fd625",
+    "duration": 3105,
+    "difficultyScore": 2012,
+    "title": "How can we use AI for language learning?",
+    "level": "advanced",
+    "tags": [
+      "technology",
+      "language learning",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "662fdaaeaf0b443dc42fd6b9",
+    "seriesId": null,
+    "duration": 1155,
+    "difficultyScore": 1473,
+    "title": "How Much Does a Colombian Know about Argentina?",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "culture",
+      "conversations"
+    ],
+    "guides": [
+      "Natalia",
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-09T12:00:00.000Z",
+    "private": false,
+    "endCutout": 175,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "662fe7b5af0b443dc42fd6bb",
+    "seriesId": null,
+    "duration": 1110,
+    "difficultyScore": 1470,
+    "title": "How much does an Argentinian know about Colombia?",
+    "level": "intermediate",
+    "tags": [
+      "culture",
+      "colombia",
+      "conversations",
+      "challenges"
+    ],
+    "guides": [
+      "Natalia",
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66320aedaf0b443dc42fd6fd",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 988,
+    "difficultyScore": 1227,
+    "title": "Geoguessr: Around the world mode! Ep. 11",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 11,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663213f5af0b443dc42fd6ff",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 698,
+    "difficultyScore": 1873,
+    "title": "Is Mexico Ready for Its First Female President?",
+    "level": "advanced",
+    "tags": [
+      "mexico",
+      "politics",
+      "conversations",
+      "society"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-07T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66321d46af0b443dc42fd701",
+    "seriesId": "65eb2757def9ded83c28aa14",
+    "duration": 320,
+    "difficultyScore": 1417,
+    "title": "El Paseo de Olla: A lovely Colombian Tradition",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "culture",
+      "leisure"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 11,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "663220ffaf0b443dc42fd703",
+    "seriesId": null,
+    "duration": 650,
+    "difficultyScore": 653,
+    "title": "Let’s talk about my 2023 New Year’s resolutions…",
+    "level": "beginner",
+    "tags": [
+      "oneself",
+      "self-improvement",
+      "humor"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663228c4af0b443dc42fd705",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1621,
+    "difficultyScore": 1549,
+    "title": "Playing Baba Is You #19",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-05-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 19,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663236a3267365f4dc7828fc",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1183,
+    "difficultyScore": 1932,
+    "title": "Mexico's March in International Tournaments",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66324219267365f4dc7828fe",
+    "seriesId": null,
+    "duration": 791,
+    "difficultyScore": 1006,
+    "title": "How many countries have I visited?",
+    "level": "beginner",
+    "tags": [
+      "tourism & travel",
+      "show and tell"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66324aaa267365f4dc782900",
+    "seriesId": null,
+    "duration": 363,
+    "difficultyScore": 1750,
+    "title": "How to Decorate Your Home Tulum Style",
+    "level": "advanced",
+    "tags": [
+      "how-to",
+      "home",
+      "mexico"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66324eab267365f4dc782902",
+    "seriesId": null,
+    "duration": 706,
+    "difficultyScore": 1772,
+    "title": "I Saw the Sunrise From a Kayak in Xochimilco",
+    "level": "advanced",
+    "tags": [
+      "mexico",
+      "leisure",
+      "personal stories"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-05-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "663256de0b273d9875708abf",
+    "seriesId": null,
+    "duration": 1502,
+    "difficultyScore": 1667,
+    "title": "People always get this wrong about me",
+    "level": "intermediate",
+    "tags": [
+      "oneself"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-05-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66326c210b273d9875708b13",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 1149,
+    "difficultyScore": 2078,
+    "title": "Visiting Mexico’s President’s Reelection Row",
+    "level": "advanced",
+    "tags": [
+      "mexico",
+      "conversations",
+      "i show you around",
+      "politics"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-11T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66327b432e0451a699758a13",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 983,
+    "difficultyScore": 1220,
+    "title": "Keep talking and nobody explodes Ep. 2",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-11T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632831a2e0451a699758a15",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 511,
+    "difficultyScore": 1588,
+    "title": "A versatile and wonderful singer: Shakira",
+    "level": "intermediate",
+    "tags": [
+      "famous people",
+      "music"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "663288972e0451a699758a17",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 1051,
+    "difficultyScore": 1792,
+    "title": "Romance Scam #9: Johnny Depp can’t wait to meet me",
+    "level": "advanced",
+    "tags": [
+      "internet",
+      "love & relationships",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66329d3b2e0451a699758a1b",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1742,
+    "difficultyScore": 1952,
+    "title": "Mexico's World Cup Journey",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632adeb2e0451a699758a1d",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1083,
+    "difficultyScore": 1237,
+    "title": "Keep talking and nobody explodes Ep. 3",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632b7072e0451a699758a1f",
+    "seriesId": "6627a6d1af0b443dc42fd5d9",
+    "duration": 1087,
+    "difficultyScore": 1926,
+    "title": "Romance Scam #10: Scammed for 8 years!",
+    "level": "advanced",
+    "tags": [
+      "love & relationships",
+      "internet",
+      "real stories",
+      "crime"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632c3662e0451a699758a21",
+    "seriesId": null,
+    "duration": 560,
+    "difficultyScore": 1706,
+    "title": "The NIGHTMARE of hiring a Mariachi (and how I did it)",
+    "level": "intermediate",
+    "tags": [
+      "mexico",
+      "music",
+      "personal stories"
+    ],
+    "guides": [
+      "Claudia"
+    ],
+    "publishedAt": "2024-05-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632c9c12e0451a699758a23",
+    "seriesId": null,
+    "duration": 838,
+    "difficultyScore": 1868,
+    "title": "Survival cannibalism: The unknown LAW that allows you to eat human flesh",
+    "level": "advanced",
+    "tags": [
+      "food",
+      "law",
+      "real stories"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632d26f2e0451a699758a25",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1024,
+    "difficultyScore": 1348,
+    "title": "Keep talking and nobody explodes Ep. 4",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632dac72e0451a699758a27",
+    "seriesId": "658bb46465c10b9fc9877bbf",
+    "duration": 1544,
+    "difficultyScore": 1480,
+    "title": "Playing Baba Is You #20",
+    "level": "intermediate",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-05-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 20,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632e6e32e0451a699758a29",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1379,
+    "difficultyScore": 1931,
+    "title": "The Olympic Journey of Mexico's Football Team",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-16T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 11,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6632f4b72e0451a699758a2b",
+    "seriesId": null,
+    "duration": 1425,
+    "difficultyScore": 2047,
+    "title": "HILARIOUS QUOTES by the former Spanish Prime Minister",
+    "level": "advanced",
+    "tags": [
+      "politics",
+      "famous people"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6633047f2e0451a699758a2f",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 362,
+    "difficultyScore": 1494,
+    "title": "The Colombian painter who created a unique style: Fernando Botero",
+    "level": "intermediate",
+    "tags": [
+      "famous people",
+      "art",
+      "colombia"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66338f792e0451a699758a33",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 770,
+    "difficultyScore": 1629,
+    "title": "Explore Buenos Aires: The Green Bohemian Heart of the City",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6634ff112e0451a699758a45",
+    "seriesId": null,
+    "duration": 582,
+    "difficultyScore": 1667,
+    "title": "Why I’m not filming new videos",
+    "level": "advanced",
+    "tags": [
+      "work",
+      "video making",
+      "dreaming spanish"
+    ],
+    "guides": [
+      "Alma"
+    ],
+    "publishedAt": "2024-05-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "663dab0a0aac308365b86699",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 388,
+    "difficultyScore": 800,
+    "title": "Guess the Disney character Ep. 7",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663daf680aac308365b8669b",
+    "seriesId": null,
+    "duration": 1191,
+    "difficultyScore": 1138,
+    "title": "Guess the Celebrity! - Body Part Edition",
+    "level": "beginner",
+    "tags": [
+      "let's play games",
+      "body",
+      "conversations",
+      "famous people"
+    ],
+    "guides": [
+      "Shelcin",
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-12T12:00:00.000Z",
+    "private": false,
+    "endCutout": 153,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663dbbd60aac308365b8669d",
+    "seriesId": null,
+    "duration": 350,
+    "difficultyScore": 1226,
+    "title": "I would like to order some sushi, please",
+    "level": "beginner",
+    "tags": [
+      "scenes",
+      "restaurants",
+      "food"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663dbf440aac308365b8669f",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 483,
+    "difficultyScore": 768,
+    "title": "Guess the Disney character Ep. 8",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663dc4a20aac308365b866a1",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 457,
+    "difficultyScore": 744,
+    "title": "Guess the Disney character Ep. 9",
+    "level": "superbeginner",
+    "tags": [
+      "conversations",
+      "let's play games"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663dc9a50aac308365b866a3",
+    "seriesId": null,
+    "duration": 2335,
+    "difficultyScore": 1757,
+    "title": "Our assumptions about the DS team (with LIVE reactions!)",
+    "level": "intermediate",
+    "tags": [
+      "dreaming spanish",
+      "conversations"
+    ],
+    "guides": [
+      "Jostin",
+      "Pablo",
+      "Michelle",
+      "Alma",
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "663de1d4206c0bec270d0344",
+    "seriesId": null,
+    "duration": 548,
+    "difficultyScore": 2040,
+    "title": "What Do Spaniards Think about Spanish Salaries?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "money",
+      "culture",
+      "spain"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-16T12:00:00.000Z",
+    "private": false,
+    "endCutout": 158,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663de7a7206c0bec270d0346",
+    "seriesId": "662bba93af0b443dc42fd61d",
+    "duration": 423,
+    "difficultyScore": 810,
+    "title": "Guess the Disney character Ep. 10",
+    "level": "superbeginner",
+    "tags": [
+      "let's play games",
+      "conversations"
+    ],
+    "guides": [
+      "Andrea",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-17T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663308452e0451a699758a31",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 980,
+    "difficultyScore": 1113,
+    "title": "Keep talking and nobody explodes Ep. 5",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663310512e0451a699758a32",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 667,
+    "difficultyScore": 1256,
+    "title": "Geoguessr: Around the world mode! Ep. 12",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 12,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6644e23eea2905d8c3072ab8",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 857,
+    "difficultyScore": 2076,
+    "title": "Scene #1: I know what you did to my aunt",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-18T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6644ed99f1c46a04beaa0294",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 586,
+    "difficultyScore": 2013,
+    "title": "Who Will You Vote For?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "politics",
+      "mexico"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6644f515538a9fef64a859e9",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1326,
+    "difficultyScore": 1257,
+    "title": "Keep talking and nobody explodes Ep. 6",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6644fff3538a9fef64a859eb",
+    "seriesId": null,
+    "duration": 360,
+    "difficultyScore": 1515,
+    "title": "The shocking legacy of Pablo Escobar in Colombia",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "animals",
+      "real stories",
+      "nature"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-19T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66450402538a9fef64a859ed",
+    "seriesId": null,
+    "duration": 776,
+    "difficultyScore": 1673,
+    "title": "Why I don't have a driver's license yet",
+    "level": "intermediate",
+    "tags": [
+      "oneself",
+      "abilities",
+      "driving"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-05-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66450b95538a9fef64a859ef",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1074,
+    "difficultyScore": 1266,
+    "title": "Keep talking and nobody explodes Ep. 7",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66451736538a9fef64a859f3",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1165,
+    "difficultyScore": 1997,
+    "title": "Isolation Play: The Impact of Limited International Matches on Mexico",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 12,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6645230a538a9fef64a859f5",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 858,
+    "difficultyScore": 1389,
+    "title": "Keep talking and nobody explodes Ep. 8",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-23T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "663294ba2e0451a699758a19",
+    "seriesId": null,
+    "duration": 774,
+    "difficultyScore": 1378,
+    "title": "I moved to LA to learn ENGLISH…",
+    "level": "intermediate",
+    "tags": [
+      "language learning",
+      "language",
+      "personal stories",
+      "united states"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6646077f538a9fef64a859fb",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 565,
+    "difficultyScore": 1559,
+    "title": "Explore Buenos Aires: Timeless Beauty, Modern Living",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel",
+      "i show you around"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66460f7c538a9fef64a859ff",
+    "seriesId": "6573f237d122d9db52254c24",
+    "duration": 736,
+    "difficultyScore": 2009,
+    "title": "Michelle interviews a soprano",
+    "level": "advanced",
+    "tags": [
+      "art",
+      "mexico",
+      "invited guests",
+      "culture",
+      "music",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-21T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6646198dbe9e0af378242b5b",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 813,
+    "difficultyScore": 2101,
+    "title": "What Are Your Expectations for the New President?",
+    "level": "advanced",
+    "tags": [
+      "politics",
+      "mexico",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-23T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66465a6b235eb1788bb3b443",
+    "seriesId": null,
+    "duration": 604,
+    "difficultyScore": 1037,
+    "title": "Making Arepas With Natalia",
+    "level": "beginner",
+    "tags": [
+      "food",
+      "colombia",
+      "how-to",
+      "show and tell"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-19T12:00:00.000Z",
+    "private": false,
+    "endCutout": 153,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664660cf235eb1788bb3b445",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 792,
+    "difficultyScore": 2055,
+    "title": "Scene #2: I just want to go to the party…",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664654fbbe9e0af378242b5d",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 552,
+    "difficultyScore": 1327,
+    "title": "Geoguessr: Around the world mode! Ep. 13",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 13,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66466b31235eb1788bb3b448",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 599,
+    "difficultyScore": 1999,
+    "title": "Has AMLO Delivered on His Electoral Promises?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "mexico",
+      "politics"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6646727e235eb1788bb3b44a",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1006,
+    "difficultyScore": 1206,
+    "title": "Keep talking and nobody explodes Ep. 9",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66467aab235eb1788bb3b44c",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 336,
+    "difficultyScore": 1320,
+    "title": "Taking soccer to another level: James Rodriguez",
+    "level": "intermediate",
+    "tags": [
+      "famous people",
+      "sports"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-25T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6647a0a8235eb1788bb3b456",
+    "seriesId": null,
+    "duration": 1587,
+    "difficultyScore": 1811,
+    "title": "Agustina to the Test: How Well Does She Know the DS Team?",
+    "level": "intermediate",
+    "tags": [
+      "dreaming spanish",
+      "challenges",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-22T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6647b3b85a2988dc77f806fc",
+    "seriesId": null,
+    "duration": 795,
+    "difficultyScore": 1616,
+    "title": "Hair Loss: Why you’re balding (and what to do about it)",
+    "level": "intermediate",
+    "tags": [
+      "health",
+      "body"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-23T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66487e975a2988dc77f806fe",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 406,
+    "difficultyScore": 1273,
+    "title": "The first decade of the 1900's: Kickstarting a crazy century!",
+    "level": "beginner",
+    "tags": [
+      "history",
+      "science"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-20T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6648c2d15a2988dc77f80700",
+    "seriesId": null,
+    "duration": 804,
+    "difficultyScore": 1291,
+    "title": "4 Spanish Cities That Will Surprise You",
+    "level": "beginner",
+    "tags": [
+      "spain",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-24T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6648ca945a2988dc77f80702",
+    "seriesId": null,
+    "duration": 301,
+    "difficultyScore": 978,
+    "title": "A Tour of My Favorite Spots at Home",
+    "level": "beginner",
+    "tags": [
+      "home",
+      "i show you around",
+      "show and tell"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6648cd925a2988dc77f80704",
+    "seriesId": null,
+    "duration": 555,
+    "difficultyScore": 1676,
+    "title": "Murphy's Law: Everything will NOT be okay",
+    "level": "intermediate",
+    "tags": [
+      "belief"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-05-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6648d3545a2988dc77f80706",
+    "seriesId": null,
+    "duration": 594,
+    "difficultyScore": 1350,
+    "title": "Trying Colombian aguardiente + Storytime",
+    "level": "intermediate",
+    "tags": [
+      "alcohol",
+      "18+",
+      "real stories",
+      "personal stories"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6648d9d35a2988dc77f80708",
+    "seriesId": "663daae70aac308365b86691",
+    "duration": 964,
+    "difficultyScore": 1535,
+    "title": "Explore Buenos Aires: The Paris of South America",
+    "level": "intermediate",
+    "tags": [
+      "argentina",
+      "tourism & travel",
+      "i show you around"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664b56aa5a2988dc77f8070a",
+    "seriesId": null,
+    "duration": 806,
+    "difficultyScore": 1656,
+    "title": "How Much Do Spaniards Know about the US?",
+    "level": "intermediate",
+    "tags": [
+      "conversations",
+      "culture",
+      "united states"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-23T12:00:00.000Z",
+    "private": false,
+    "endCutout": 157,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664c85f55a2988dc77f8070c",
+    "seriesId": null,
+    "duration": 709,
+    "difficultyScore": 1188,
+    "title": "Is Medellin, Colombia Really Safe?",
+    "level": "beginner",
+    "tags": [
+      "colombia",
+      "tourism & travel",
+      "crime"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-26T12:00:00.000Z",
+    "private": false,
+    "endCutout": 153,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664c98455a2988dc77f8070e",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1028,
+    "difficultyScore": 1190,
+    "title": "Keep talking and nobody explodes Ep. 10",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 10,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664ca11c5a2988dc77f80710",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1434,
+    "difficultyScore": 2067,
+    "title": "Profit vs. Passion: The Economic Dilemma of Mexican Soccer",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-27T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 13,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cb03190fec0b032e285d6",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 854,
+    "difficultyScore": 2009,
+    "title": "If you were the President, what changes would you make?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "politics",
+      "mexico"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cb9da90fec0b032e285d8",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1143,
+    "difficultyScore": 1210,
+    "title": "Keep talking and nobody explodes Ep. 11",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 11,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cc38d8615650ea7d089a7",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 799,
+    "difficultyScore": 1938,
+    "title": "Scene #4: The shopping list",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "shopping",
+      "family",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664ccd188615650ea7d089a9",
+    "seriesId": "663daaafd2e904123e7ebb62",
+    "duration": 389,
+    "difficultyScore": 1443,
+    "title": "A very empowered singer: Karol G",
+    "level": "intermediate",
+    "tags": [
+      "famous people",
+      "music"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-05-29T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cd1738615650ea7d089ab",
+    "seriesId": "66196c7eed9771ed89c6a7c9",
+    "duration": 1218,
+    "difficultyScore": 1316,
+    "title": "Geoguessr: Around the world mode! Ep. 14",
+    "level": "intermediate",
+    "tags": [
+      "let's play games",
+      "geography"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-05-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 14,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cdd478615650ea7d089ad",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 390,
+    "difficultyScore": 1393,
+    "title": "The 1920s: Prohibition, Elizabeth’s arrival, and the first TV",
+    "level": "beginner",
+    "tags": [
+      "history"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664ce1548615650ea7d089af",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1461,
+    "difficultyScore": 1929,
+    "title": "European Dreams, Mexican Realities: The Struggle for Soccer Migration",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-05-30T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 14,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cf04c8615650ea7d089b1",
+    "seriesId": "664de0bf074a50ed46f5b5b5",
+    "duration": 620,
+    "difficultyScore": 1939,
+    "title": "What advice would you give to undecided voters?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "politics",
+      "mexico"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-05-31T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664cf7718615650ea7d089b3",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1283,
+    "difficultyScore": 1163,
+    "title": "Keep talking and nobody explodes Ep. 12",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-05-31T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 12,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664d0256074a50ed46f5b59f",
+    "seriesId": null,
+    "duration": 727,
+    "difficultyScore": 1611,
+    "title": "Why Spaniards want to BAN BULLFIGHTING",
+    "level": "intermediate",
+    "tags": [
+      "culture",
+      "spain",
+      "society",
+      "animals",
+      "18+"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-31T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664d0979074a50ed46f5b5a1",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 797,
+    "difficultyScore": 2068,
+    "title": "Scene #5: I’m NOT going on a diet!",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664d132d074a50ed46f5b5a3",
+    "seriesId": null,
+    "duration": 620,
+    "difficultyScore": 1594,
+    "title": "Does listening to Mozart make you more intelligent?",
+    "level": "intermediate",
+    "tags": [
+      "music",
+      "abilities",
+      "psychology"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-06-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664d92a2074a50ed46f5b5a5",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 727,
+    "difficultyScore": 2180,
+    "title": "Scene #3: Two cousins try to plan a party",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-05-26T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664d9c10074a50ed46f5b5a9",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 447,
+    "difficultyScore": 1315,
+    "title": "The 1910s: When the world sank and exploded",
+    "level": "beginner",
+    "tags": [
+      "history"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-05-28T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664da0de074a50ed46f5b5ab",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 290,
+    "difficultyScore": 1267,
+    "title": "The 1930’s: Dictators on the rise",
+    "level": "beginner",
+    "tags": [
+      "history"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-01T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 4,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664db11a074a50ed46f5b5ad",
+    "seriesId": null,
+    "duration": 2897,
+    "difficultyScore": 1404,
+    "title": "Colombian Girls React to Stereotypes About Colombia",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "culture",
+      "conversations"
+    ],
+    "guides": [
+      "Shelcin",
+      "Natalia",
+      "Agustina",
+      "Andrea",
+      "Andrés",
+      "Jostin"
+    ],
+    "publishedAt": "2024-05-30T12:00:00.000Z",
+    "private": false,
+    "endCutout": 175,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "664dcfbb074a50ed46f5b5af",
+    "seriesId": null,
+    "duration": 452,
+    "difficultyScore": 1053,
+    "title": "What I eat in a day… in Punta Cana!",
+    "level": "beginner",
+    "tags": [
+      "i show you around",
+      "show and tell",
+      "tourism & travel",
+      "food",
+      "hotels"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664dd3a1074a50ed46f5b5b1",
+    "seriesId": null,
+    "duration": 518,
+    "difficultyScore": 1724,
+    "title": "Is the leaning tower of Pisa falling!?",
+    "level": "advanced",
+    "tags": [
+      "history"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "664dd89d074a50ed46f5b5b3",
+    "seriesId": null,
+    "duration": 837,
+    "difficultyScore": 1575,
+    "title": "What do I smell like?: My favorite perfumes",
+    "level": "intermediate",
+    "tags": [
+      "oneself"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-06-02T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66503676074a50ed46f5b5be",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1167,
+    "difficultyScore": 1236,
+    "title": "Keep talking and nobody explodes Ep. 13",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-06-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 13,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "665041639b3c87d90d8bb27a",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 1028,
+    "difficultyScore": 2075,
+    "title": "Scene #6: A wild bus ride with grandma",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66504d999b3c87d90d8bb27c",
+    "seriesId": null,
+    "duration": 551,
+    "difficultyScore": 1491,
+    "title": "Visiting a Coffee Farm in Colombia",
+    "level": "intermediate",
+    "tags": [
+      "colombia",
+      "drinks",
+      "i show you around"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-06-03T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "665054f19b3c87d90d8bb27e",
+    "seriesId": null,
+    "duration": 519,
+    "difficultyScore": 1332,
+    "title": "Visiting the MOST BEAUTIFUL plaza in SPAIN",
+    "level": "beginner",
+    "tags": [
+      "spain",
+      "i show you around",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66505be89b3c87d90d8bb280",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1346,
+    "difficultyScore": 2027,
+    "title": "The Salary Spectrum of Mexican Soccer Stars",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-06-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 15,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "665069079b3c87d90d8bb282",
+    "seriesId": null,
+    "duration": 462,
+    "difficultyScore": 2050,
+    "title": "From the Streets of Puerto Rico to the Top of the Charts: The Making of Bad Bunny",
+    "level": "advanced",
+    "tags": [
+      "famous people",
+      "music",
+      "real stories"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-06-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66506e029b3c87d90d8bb284",
+    "seriesId": null,
+    "duration": 801,
+    "difficultyScore": 1423,
+    "title": "Visiting an oasis in the heart of Seville",
+    "level": "beginner",
+    "tags": [
+      "i show you around",
+      "spain",
+      "leisure"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6650790e0611faac8dd5efe9",
+    "seriesId": null,
+    "duration": 546,
+    "difficultyScore": 1644,
+    "title": "The most original catfé",
+    "level": "intermediate",
+    "tags": [
+      "animals",
+      "personal stories",
+      "leisure",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-06-05T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66507ec34ef326d330e88071",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1133,
+    "difficultyScore": 1298,
+    "title": "Keep talking and nobody explodes Ep. 14",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-06-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 14,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "665087fa4ef326d330e88073",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 896,
+    "difficultyScore": 2045,
+    "title": "Scene #7: Your brother was a terrible boyfriend",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "family",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66509321aaf2039a22b85c6d",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 353,
+    "difficultyScore": 1352,
+    "title": "The 1940s: Atomic war and global transformation",
+    "level": "beginner",
+    "tags": [
+      "history",
+      "war"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 5,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "665096aaaaf2039a22b85c6f",
+    "seriesId": null,
+    "duration": 359,
+    "difficultyScore": 1312,
+    "title": "Spend my birthday with me!",
+    "level": "intermediate",
+    "tags": [
+      "oneself",
+      "i show you around"
+    ],
+    "guides": [
+      "Natalia"
+    ],
+    "publishedAt": "2024-06-07T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66509b0eaaf2039a22b85c71",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1329,
+    "difficultyScore": 1214,
+    "title": "Keep talking and nobody explodes Ep. 15",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-06-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 15,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6650a5f6aaf2039a22b85c73",
+    "seriesId": null,
+    "duration": 334,
+    "difficultyScore": 1984,
+    "title": "Let’s talk about celebrity tequila brands",
+    "level": "advanced",
+    "tags": [
+      "drinks",
+      "famous people",
+      "mexico",
+      "culture"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-06-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6655eda1aaf2039a22b85c77",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 336,
+    "difficultyScore": 1287,
+    "title": "The 1950s: Cold War and mutual destruction, televised in color",
+    "level": "beginner",
+    "tags": [
+      "history",
+      "war"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 6,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6655f12caaf2039a22b85c79",
+    "seriesId": null,
+    "duration": 480,
+    "difficultyScore": 1422,
+    "title": "Would I live in a big city or in the countryside",
+    "level": "intermediate",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-06-09T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "665610adaaf2039a22b85c7d",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 832,
+    "difficultyScore": 1961,
+    "title": "Scene #8: A grandfather and his least favorite grandson",
+    "level": "advanced",
+    "tags": [
+      "humor",
+      "scenes",
+      "family",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-10T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6656d5f3aaf2039a22b85c7f",
+    "seriesId": null,
+    "duration": 811,
+    "difficultyScore": 732,
+    "title": "Why I Hate Mexico (As a Mexican)",
+    "level": "superbeginner",
+    "tags": [
+      "mexico",
+      "culture",
+      "humor"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-02T12:00:00.000Z",
+    "private": false,
+    "endCutout": 158,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6656dfafa8da507032d83efc",
+    "seriesId": null,
+    "duration": 709,
+    "difficultyScore": 1649,
+    "title": "Meet my Mexican cleaning lady",
+    "level": "intermediate",
+    "tags": [
+      "scenes",
+      "home",
+      "humor"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-04T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6656e7a5a8da507032d83efe",
+    "seriesId": null,
+    "duration": 542,
+    "difficultyScore": 1893,
+    "title": "Two Dreaming Spanish HATERS!",
+    "level": "intermediate",
+    "tags": [
+      "scenes",
+      "humor",
+      "dreaming spanish",
+      "conversations"
+    ],
+    "guides": [
+      "Agustina",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-06T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66571d08a8da507032d83f00",
+    "seriesId": "669ae6a4e5e3a741fa70fcde",
+    "duration": 985,
+    "difficultyScore": 1577,
+    "title": "How much does Andrés know about Spain?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "culture",
+      "spain"
+    ],
+    "guides": [
+      "Andrés",
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-06T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657275da8da507032d83f02",
+    "seriesId": null,
+    "duration": 1194,
+    "difficultyScore": 1531,
+    "title": "Unboxing my brand new laptop!",
+    "level": "intermediate",
+    "tags": [
+      "technology",
+      "show and tell"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-06-08T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657483e19c3a19ef11aa001",
+    "seriesId": "669ae6a4e5e3a741fa70fcde",
+    "duration": 886,
+    "difficultyScore": 1601,
+    "title": "How much does Andrés know about biology?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "science"
+    ],
+    "guides": [
+      "Andrés",
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-09T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 2,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657519419c3a19ef11aa003",
+    "seriesId": null,
+    "duration": 790,
+    "difficultyScore": 1636,
+    "title": "How much does AGUSTINA really KNOW her DAD?",
+    "level": "intermediate",
+    "tags": [
+      "conversations",
+      "challenges",
+      "family"
+    ],
+    "guides": [
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66575a6b19c3a19ef11aa005",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 278,
+    "difficultyScore": 1272,
+    "title": "The 1960s: Hippies on the moon!",
+    "level": "beginner",
+    "tags": [
+      "history",
+      "humor"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 7,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66575d5f19c3a19ef11aa007",
+    "seriesId": "6627a6f0af0b443dc42fd5eb",
+    "duration": 1645,
+    "difficultyScore": 1976,
+    "title": "How TV Shapes Soccer in Mexico",
+    "level": "advanced",
+    "tags": [
+      "sports",
+      "mexico"
+    ],
+    "guides": [
+      "Ricardo R."
+    ],
+    "publishedAt": "2024-06-11T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 16,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66576dbeadc28084b6a08146",
+    "seriesId": "664cafd190fec0b032e285c7",
+    "duration": 1655,
+    "difficultyScore": 1444,
+    "title": "Keep talking and nobody explodes Ep. 16",
+    "level": "beginner",
+    "tags": [
+      "conversations",
+      "video games"
+    ],
+    "guides": [
+      "Agustina",
+      "Shelcin"
+    ],
+    "publishedAt": "2024-06-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 16,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66577c86adc28084b6a08148",
+    "seriesId": null,
+    "duration": 1019,
+    "difficultyScore": 1831,
+    "title": "Meeting for the First Time in Brazil",
+    "level": "intermediate",
+    "tags": [
+      "i show you around",
+      "brazil",
+      "conversations",
+      "tourism & travel",
+      "we meet in person"
+    ],
+    "guides": [
+      "Agustina",
+      "Jostin"
+    ],
+    "publishedAt": "2024-06-06T12:00:00.000Z",
+    "private": false,
+    "endCutout": 199,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66578988adc28084b6a0814a",
+    "seriesId": null,
+    "duration": 158,
+    "difficultyScore": 2007,
+    "title": "The couple in the park",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2024-06-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "66578c6bbcca6817fc2bc6b5",
+    "seriesId": null,
+    "duration": 599,
+    "difficultyScore": 1577,
+    "title": "Why I don't want to be famous",
+    "level": "intermediate",
+    "tags": [
+      "oneself",
+      "famous people"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2024-06-12T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": null,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657929abcca6817fc2bc6b7",
+    "seriesId": "669ae6a4e5e3a741fa70fcde",
+    "duration": 930,
+    "difficultyScore": 1630,
+    "title": "How much does Andrés know about music?",
+    "level": "advanced",
+    "tags": [
+      "conversations",
+      "music"
+    ],
+    "guides": [
+      "Andrés",
+      "Agustina"
+    ],
+    "publishedAt": "2024-06-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 3,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "66579cbebcca6817fc2bc6b9",
+    "seriesId": "6672a04f5f16a08d57df31d8",
+    "duration": 394,
+    "difficultyScore": 1213,
+    "title": "The 1970s: When the world was still at war but with better music",
+    "level": "beginner",
+    "tags": [
+      "history",
+      "music",
+      "war"
+    ],
+    "guides": [
+      "Andrés"
+    ],
+    "publishedAt": "2024-06-13T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 8,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657a0d9bcca6817fc2bc6bb",
+    "seriesId": "6679b47736b57eca69233f1e",
+    "duration": 792,
+    "difficultyScore": 1993,
+    "title": "Scene #9: Shopping with grandma",
+    "level": "advanced",
+    "tags": [
+      "scenes",
+      "shopping",
+      "family",
+      "conversations"
+    ],
+    "guides": [
+      "Michelle",
+      "Andrea"
+    ],
+    "publishedAt": "2024-06-14T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 9,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657aa29bcca6817fc2bc6bd",
+    "seriesId": "669ae6bae5e3a741fa70fcea",
+    "duration": 402,
+    "difficultyScore": 1009,
+    "title": "How Doritos are made",
+    "level": "beginner",
+    "tags": [
+      "food"
+    ],
+    "guides": [
+      "Shelcin"
+    ],
+    "publishedAt": "2024-06-15T12:00:00.000Z",
+    "private": false,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "6657af2bbcca6817fc2bc6bf",
+    "seriesId": null,
+    "duration": 1489,
+    "difficultyScore": 2136,
+    "title": "Experience the Ancient Aztec Ritual of Spiritual Cleansing",
+    "level": "advanced",
+    "tags": [
+      "belief",
+      "supernatural",
+      "culture",
+      "mexico",
+      "conversations",
+      "i show you around",
+      "show and tell"
+    ],
+    "guides": [
+      "Michelle"
+    ],
+    "publishedAt": "2024-06-15T12:00:00.000Z",
+    "private": true,
+    "endCutout": 0,
+    "episodeNumber": 1,
+    "soundQuality": "other",
+    "hasAccess": true
+  }
+]

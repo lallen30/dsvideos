@@ -1,0 +1,5581 @@
+[
+  {
+    "_id": "5e6c37ac22c6707e00209d91",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-25T06:46:35.000Z",
+    "duration": 662,
+    "title": "Dreams and nightmares",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1777,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ddaac87f3820954bdb",
+    "tags": [
+      "daily life",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-17T12:00:03.000Z",
+    "duration": 613,
+    "title": "Pets That I've Had",
+    "level": "superbeginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1079,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c0aac87f3820954b78",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-07T12:00:05.000Z",
+    "duration": 437,
+    "title": "The DEFINITIVE Way to Learn the Spanish Subjunctive",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1167,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1202aac87f3820954c5e",
+    "tags": [
+      "news",
+      "18+"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-10T12:00:00.000Z",
+    "duration": 531,
+    "title": "[swearing] News: 2 Small Things With Big Consequences",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1332,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f8aac87f3820954c38",
+    "tags": [
+      "spain",
+      "tourism & travel",
+      "barcelona",
+      "invited guests",
+      "conversations",
+      "geography"
+    ],
+    "guides": [
+      "Pablo",
+      "Karlos"
+    ],
+    "publishedAt": "2018-07-03T12:00:00.000Z",
+    "duration": 672,
+    "title": "Differences Between Canary Islands And Barcelona",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1378,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1227aac87f3820954cdc",
+    "tags": [
+      "spain",
+      "culture",
+      "animals",
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-28T12:00:00.000Z",
+    "duration": 370,
+    "title": "Pig slaughter 🐷",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1167,
+    "soundQuality": "other",
+    "episodeNumber": 14,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120caac87f3820954c7f",
+    "tags": [
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-31T12:00:00.000Z",
+    "duration": 353,
+    "title": "The Angry Wife",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1196,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122baac87f3820954ce9",
+    "tags": [
+      "fiction stories",
+      "surprise ending"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-12T12:00:00.000Z",
+    "duration": 582,
+    "title": "The Conflict of Two Families",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1338,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508dee70ce4bafba31c2",
+    "tags": [
+      "self-improvement",
+      "philosophy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-12T12:00:00.000Z",
+    "duration": 479,
+    "title": "The importance of having personal values",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 4,
+    "difficultyScore": 1935,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121caac87f3820954cb7",
+    "tags": [
+      "personal stories",
+      "china",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2017-09-12T12:00:00.000Z",
+    "duration": 552,
+    "title": "Adrià and the Armchair (2/2)",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1332,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121faac87f3820954cbf",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-08-29T12:00:00.000Z",
+    "duration": 376,
+    "title": "The Original Story of Cinderella 2/5",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1245,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123faac87f3820954d2d",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-16T08:28:23.000Z",
+    "duration": 461,
+    "title": "My weekday routine",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1166,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e0aac87f3820954be6",
+    "tags": [
+      "oneself"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-12-21T12:00:00.000Z",
+    "duration": 297,
+    "title": "Things That Disgust Me",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 994,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11faaac87f3820954c3f",
+    "tags": [
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-06-14T21:34:54.000Z",
+    "duration": 395,
+    "title": "Strange Food I've Eaten",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 843,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123faac87f3820954d2e",
+    "tags": [
+      "daily life",
+      "home"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-14T12:00:00.000Z",
+    "duration": 443,
+    "title": "My house",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1063,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a022c6707e00209d66",
+    "tags": [
+      "tourism & travel",
+      "work",
+      "life abroad"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-03-12T02:47:49.000Z",
+    "duration": 489,
+    "title": "I tried to become a travel blogger and failed",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1692,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ab22c6707e00209d8e",
+    "tags": [
+      "oneself",
+      "hypothetical situations"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-25T06:50:49.000Z",
+    "duration": 475,
+    "title": "My ambitions when growing up and now",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1768,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d1aac87f3820954bb3",
+    "tags": [
+      "personal stories",
+      "children",
+      "school"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-20T10:09:32.000Z",
+    "duration": 341,
+    "title": "Stolen on my First Day of School",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1447,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f3aac87f3820954c28",
+    "tags": [
+      "tourism & travel",
+      "invited guests",
+      "life abroad",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Amey"
+    ],
+    "publishedAt": "2018-08-17T18:25:22.000Z",
+    "duration": 629,
+    "title": "Amey Likes Australia",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1055,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121eaac87f3820954cbd",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-09-04T12:00:00.000Z",
+    "duration": 540,
+    "title": "The Original Story of Cinderella 4/5",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1212,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11feaac87f3820954c4f",
+    "tags": [
+      "humor",
+      "concept"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-05-04T17:12:21.000Z",
+    "duration": 449,
+    "title": "Large and Small Things",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 917,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1202aac87f3820954c5b",
+    "tags": [
+      "food",
+      "thailand",
+      "show and tell"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-16T12:00:00.000Z",
+    "duration": 900,
+    "title": "Eating Fruit in Thailand",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1066,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37aa22c6707e00209d87",
+    "tags": [
+      "mexico",
+      "daily life",
+      "home"
+    ],
+    "guides": [
+      "Tamara"
+    ],
+    "publishedAt": "2020-03-03T02:14:38.000Z",
+    "duration": 654,
+    "title": "Finding a place to live in Mexico City",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1845,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e5aac87f3820954bf6",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-11-02T16:00:07.000Z",
+    "duration": 624,
+    "title": "Sonia's Things Got Stolen",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1204,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11abaac87f3820954b30",
+    "tags": [
+      "sitcom",
+      "fiction stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-28T12:00:04.000Z",
+    "duration": 640,
+    "title": "One ❤ One Not Always Two (1/10)",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1146,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11bcaac87f3820954b6a",
+    "tags": [
+      "personal stories",
+      "technology",
+      "games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-01T10:49:48.000Z",
+    "duration": 454,
+    "title": "We Tried to Build a DDR Controller",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1706,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1201aac87f3820954c59",
+    "tags": [
+      "personal stories",
+      "children"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-18T12:00:00.000Z",
+    "duration": 394,
+    "title": "They Forgot Me",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1184,
+    "soundQuality": "other",
+    "episodeNumber": 2,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1228aac87f3820954cde",
+    "tags": [
+      "japan",
+      "personal stories",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-26T12:00:00.000Z",
+    "duration": 787,
+    "title": "My Japan Trip: Will I get rides? 🚗🐻🐟",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1332,
+    "soundQuality": "other",
+    "episodeNumber": 21,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11daaac87f3820954bd0",
+    "tags": [
+      "language learning",
+      "tv shows"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-12T12:00:00.000Z",
+    "duration": 274,
+    "title": "Watch Series, Not Movies",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 25,
+    "difficultyScore": 1405,
+    "soundQuality": "podcast-friendly",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d119baac87f3820954af4",
+    "tags": [
+      "technology",
+      "philosophy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-06-24T12:30:42.000Z",
+    "duration": 774,
+    "title": "Free Software",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1643,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f0aac87f3820954c1e",
+    "tags": [
+      "daily life",
+      "invited guests",
+      "drinks",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2018-09-15T14:00:01.000Z",
+    "duration": 664,
+    "title": "Adrià Likes To Drink...",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 847,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ac22c6707e00209d90",
+    "tags": [
+      "children",
+      "personal stories"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-02-25T06:47:49.000Z",
+    "duration": 688,
+    "title": "A strict Taewkondo teacher",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1958,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11eaaac87f3820954c08",
+    "tags": [
+      "food",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-12T00:41:43.000Z",
+    "duration": 478,
+    "title": "Luna Likes To Eat",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 655,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11adaac87f3820954b36",
+    "tags": [
+      "work",
+      "money",
+      "life abroad",
+      "economics"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-13T13:40:44.000Z",
+    "duration": 657,
+    "title": "Where I Pay Taxes",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1638,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a2ee70ce4bafba3200",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-05T12:00:00.000Z",
+    "duration": 469,
+    "title": "How long does it take to learn Spanish?",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1199,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ebaac87f3820954c0b",
+    "tags": [
+      "fiction stories",
+      "humor",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T12:14:39.000Z",
+    "duration": 292,
+    "title": "Story of two boogers",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 855,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1214aac87f3820954c9a",
+    "tags": [
+      "spain",
+      "culture",
+      "religion"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-05T12:00:00.000Z",
+    "duration": 399,
+    "title": "Religion in Spain",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1111,
+    "soundQuality": "other",
+    "episodeNumber": 12,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11deaac87f3820954bdf",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-10T12:00:00.000Z",
+    "duration": 482,
+    "title": "Do What You're Ready For",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 5,
+    "difficultyScore": 1352,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1218aac87f3820954ca7",
+    "tags": [
+      "humor",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-10-22T12:00:00.000Z",
+    "duration": 447,
+    "title": "How To Flirt",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1535,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123eaac87f3820954d2c",
+    "tags": [
+      "spain",
+      "festivals",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-18T06:58:06.000Z",
+    "duration": 573,
+    "title": "Fallas of Valencia",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1305,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122faac87f3820954cf9",
+    "tags": [
+      "tales",
+      "money"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-27T12:00:00.000Z",
+    "duration": 293,
+    "title": "True Wealth",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1359,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5086ee70ce4bafba31ab",
+    "tags": [
+      "love & relationships"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-18T03:43:47.000Z",
+    "duration": 483,
+    "title": "Why I'm spending another Valentine's alone",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1621,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1224aac87f3820954cd3",
+    "tags": [
+      "love & relationships",
+      "humor"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-07-13T12:00:00.000Z",
+    "duration": 365,
+    "title": "How to flirt with Spanish girls",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1334,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1218aac87f3820954ca9",
+    "tags": [
+      "daily life",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2017-10-17T12:00:00.000Z",
+    "duration": 417,
+    "title": "Adrià's Daily Routine 2/2",
+    "level": "intermediate",
+    "private": true,
+    "difficultyScore": 1364,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122baac87f3820954ceb",
+    "tags": [
+      "spain",
+      "art",
+      "famous people",
+      "real stories",
+      "acting"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-10T13:30:10.000Z",
+    "duration": 447,
+    "title": "Antonio Banderas",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 929,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e6aac87f3820954bfb",
+    "tags": [
+      "concept",
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-27T12:00:00.000Z",
+    "duration": 552,
+    "title": "Sweet And Sour Things",
+    "level": "superbeginner",
+    "private": true,
+    "difficultyScore": 908,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1211aac87f3820954c91",
+    "tags": [
+      "concept",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2018-01-05T16:51:00.000Z",
+    "duration": 1368,
+    "title": "More Or Less",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1116,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1216aac87f3820954ca0",
+    "tags": [
+      "spain",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-11-10T12:00:00.000Z",
+    "duration": 294,
+    "title": "3 Spanish Superstitions #2",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1072,
+    "soundQuality": "other",
+    "episodeNumber": 6,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1192aac87f3820954ad3",
+    "tags": [
+      "tv shows",
+      "spain",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-08-27T12:00:01.000Z",
+    "duration": 1032,
+    "title": "Verano Azul Episode 1 explained",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1458,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11fdaac87f3820954c4b",
+    "tags": [
+      "tourism & travel",
+      "mexico",
+      "latin america",
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-05-20T12:00:00.000Z",
+    "duration": 434,
+    "title": "Riviera Maya",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1227,
+    "soundQuality": "other",
+    "episodeNumber": 24,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1217aac87f3820954ca6",
+    "tags": [
+      "debates",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2017-10-24T15:00:11.000Z",
+    "duration": 544,
+    "title": "Beach VS Mountain",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1239,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123baac87f3820954d20",
+    "tags": [
+      "spain",
+      "culture",
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-14T12:00:00.000Z",
+    "duration": 388,
+    "title": "Colacao",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1265,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5093ee70ce4bafba31d6",
+    "tags": [
+      "health"
+    ],
+    "guides": [
+      "Tamara"
+    ],
+    "publishedAt": "2020-01-30T08:24:55.000Z",
+    "duration": 724,
+    "title": "Tamara got sick",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1779,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a0ee70ce4bafba31fb",
+    "tags": [
+      "society",
+      "china"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-13T08:22:17.000Z",
+    "duration": 576,
+    "title": "Chinese stereotypes about foreigners",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1601,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509eee70ce4bafba31f5",
+    "tags": [
+      "daily life",
+      "clothes"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-17T09:58:59.000Z",
+    "duration": 468,
+    "title": "Winter clothes",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1355,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5089ee70ce4bafba31b5",
+    "tags": [
+      "sitcom",
+      "fiction stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-17T12:00:21.000Z",
+    "duration": 962,
+    "title": "One ❤ One Not Always Two (6/10)",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1461,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5092ee70ce4bafba31d4",
+    "tags": [
+      "abilities",
+      "sports"
+    ],
+    "guides": [
+      "Tamara"
+    ],
+    "publishedAt": "2020-01-30T08:29:42.000Z",
+    "duration": 826,
+    "title": "Why Tamara loves yoga",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1853,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d119caac87f3820954af9",
+    "tags": [
+      "humor",
+      "fiction stories",
+      "school"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-07-03T12:00:00.000Z",
+    "duration": 236,
+    "title": "Carlitos Learns to Use a Pencil",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "seriesId": null,
+    "difficultyScore": 730,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a7aac87f3820954b1f",
+    "tags": [
+      "technology",
+      "games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-27T13:52:59.000Z",
+    "duration": 646,
+    "title": "I got my VR headset!",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1549,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11adaac87f3820954b34",
+    "tags": [
+      "fiction stories",
+      "surprise ending",
+      "transportation"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-13T12:00:00.000Z",
+    "duration": 700,
+    "title": "Story of the Mouse in the Train",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 15,
+    "difficultyScore": 1645,
+    "soundQuality": "other",
+    "seriesId": "655c460a4ff79db5c63d0329",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e8aac87f3820954c03",
+    "tags": [
+      "personal stories",
+      "china"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-12T12:00:00.000Z",
+    "duration": 422,
+    "title": "I'm In China!",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1079,
+    "soundQuality": "other",
+    "episodeNumber": 33,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123faac87f3820954d30",
+    "tags": [
+      "personal stories",
+      "japan"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-12T12:00:00.000Z",
+    "duration": 811,
+    "title": "Snowboarding Without Enough Cash",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1267,
+    "soundQuality": "other",
+    "episodeNumber": 18,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11feaac87f3820954c4d",
+    "tags": [
+      "love & relationships",
+      "humor"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-05-17T12:00:00.000Z",
+    "duration": 605,
+    "title": "6 Types Of Couples",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1317,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123caac87f3820954d23",
+    "tags": [
+      "sports",
+      "exercise"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-08T12:00:00.000Z",
+    "duration": 604,
+    "title": "Went to the Climbing Gym",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1277,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1235aac87f3820954d0d",
+    "tags": [
+      "food",
+      "spain"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-06T05:51:23.000Z",
+    "duration": 385,
+    "title": "Paella",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1195,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f8aac87f3820954c3a",
+    "tags": [
+      "daily life",
+      "home",
+      "food",
+      "drinks",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Ricardo"
+    ],
+    "publishedAt": "2018-06-30T15:00:06.000Z",
+    "duration": 597,
+    "title": "Ricardo's Fridge",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 949,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122aaac87f3820954ce6",
+    "tags": [
+      "spain",
+      "festivals",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-15T12:00:00.000Z",
+    "duration": 495,
+    "title": "🎆🎆 San Juan 🎆🎆",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1318,
+    "soundQuality": "other",
+    "episodeNumber": 21,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122eaac87f3820954cf5",
+    "tags": [
+      "famous people",
+      "art",
+      "chile",
+      "real stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-31T12:00:00.000Z",
+    "duration": 342,
+    "title": "Isabel Allende",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1156,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e7aac87f3820954bff",
+    "tags": [
+      "history",
+      "spain",
+      "war"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-18T12:00:00.000Z",
+    "duration": 563,
+    "title": "The Reconquista — History of Spain Ep. 5",
+    "level": "intermediate",
+    "private": false,
+    "episodeNumber": 5,
+    "seriesId": "6409ac7e112debe7aa739dc3",
+    "difficultyScore": 1404,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1225aac87f3820954cd4",
+    "tags": [
+      "let's play games",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-07-12T12:00:00.000Z",
+    "duration": 604,
+    "title": "Guess the Animal! 🐶🐱🐴",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1008,
+    "soundQuality": "other",
+    "episodeNumber": 10,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1205aac87f3820954c66",
+    "tags": [
+      "science",
+      "technology"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-24T12:00:00.000Z",
+    "duration": 396,
+    "title": "SpaceX",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1409,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1228aac87f3820954ce0",
+    "tags": [
+      "history",
+      "spain",
+      "war"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-22T12:00:00.000Z",
+    "duration": 544,
+    "title": "The Civil War — History of Spain Ep. 24",
+    "level": "intermediate",
+    "private": false,
+    "episodeNumber": 24,
+    "seriesId": "6409ac7e112debe7aa739dc3",
+    "difficultyScore": 1455,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11eaaac87f3820954c09",
+    "tags": [
+      "oneself",
+      "feelings",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-12T00:02:31.000Z",
+    "duration": 585,
+    "title": "What things is she embarrassed of?",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1095,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a422c6707e00209d74",
+    "tags": [
+      "daily life",
+      "driving"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-09T05:10:09.000Z",
+    "duration": 473,
+    "title": "Getting a flat tire",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1941,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1207aac87f3820954c6e",
+    "tags": [
+      "language",
+      "history"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-06T12:00:00.000Z",
+    "duration": 353,
+    "title": "The Letter \"A\"",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1260,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5092ee70ce4bafba31d2",
+    "tags": [
+      "love & relationships"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-01-30T08:32:12.000Z",
+    "duration": 464,
+    "title": "How to flirt at a nightclub",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1923,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c4aac87f3820954b84",
+    "tags": [
+      "culture",
+      "spain"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-26T02:25:15.000Z",
+    "duration": 330,
+    "title": "Beards in Spain 🧔🏻",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1415,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d9aac87f3820954bcd",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-16T12:00:00.000Z",
+    "duration": 613,
+    "title": "Why to do extensive reading (when you're ready)",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 16,
+    "difficultyScore": 1525,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11dcaac87f3820954bd7",
+    "tags": [
+      "daily life",
+      "home"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-25T12:00:10.000Z",
+    "duration": 707,
+    "title": "Going To Bed",
+    "level": "superbeginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1037,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d5aac87f3820954bc0",
+    "tags": [
+      "personal stories",
+      "feelings",
+      "family"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-14T12:00:00.000Z",
+    "duration": 511,
+    "title": "Losses I've Suffered",
+    "level": "superbeginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 844,
+    "soundQuality": "other",
+    "episodeNumber": 17,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1236aac87f3820954d11",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-02T12:00:00.000Z",
+    "duration": 353,
+    "title": "The Frog and the Scorpion 🐸🦂",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1146,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a922c6707e00209d85",
+    "tags": [
+      "tourism & travel"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-03T02:16:49.000Z",
+    "duration": 480,
+    "title": "What to do at the beach",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1920,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c0aac87f3820954b76",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-07T12:00:00.000Z",
+    "duration": 665,
+    "title": "Why Pronunciation Matters",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 11,
+    "difficultyScore": 1437,
+    "soundQuality": "podcast-friendly",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1197aac87f3820954ae6",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-08-09T12:00:11.000Z",
+    "duration": 395,
+    "title": "Crosstalk",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1169,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d3aac87f3820954bb8",
+    "tags": [
+      "oneself",
+      "daily life",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Maximiliano"
+    ],
+    "publishedAt": "2019-03-28T12:00:05.000Z",
+    "duration": 582,
+    "title": "We Like to Walk",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1590,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120daac87f3820954c83",
+    "tags": [
+      "society",
+      "spain",
+      "transportation"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-21T12:00:00.000Z",
+    "duration": 378,
+    "title": "Trains in Spain: inside the train",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1179,
+    "soundQuality": "other",
+    "episodeNumber": 22,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1221aac87f3820954cc8",
+    "tags": [
+      "how-to",
+      "show and tell",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-07-29T12:00:00.000Z",
+    "duration": 697,
+    "title": "Learn How To Juggle",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1224,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c379e22c6707e00209d5e",
+    "tags": [
+      "personal stories",
+      "tourism & travel",
+      "flying"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-12T03:01:27.000Z",
+    "duration": 466,
+    "title": "Problems using the restroom in a plane",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1794,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d0aac87f3820954baf",
+    "tags": [
+      "news",
+      "spain",
+      "society"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-22T14:03:59.000Z",
+    "duration": 610,
+    "title": "National Elections in Spain!",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1771,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11fcaac87f3820954c49",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-05-23T12:00:00.000Z",
+    "duration": 415,
+    "title": "I Hurt My Hand",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1123,
+    "soundQuality": "other",
+    "episodeNumber": 5,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508aee70ce4bafba31b7",
+    "tags": [
+      "animals"
+    ],
+    "guides": [
+      "Tamara"
+    ],
+    "publishedAt": "2020-02-12T11:30:52.000Z",
+    "duration": 683,
+    "title": "Tamara's pet",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1802,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11b5aac87f3820954b53",
+    "tags": [
+      "spain",
+      "culture",
+      "work"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-22T12:00:00.000Z",
+    "duration": 828,
+    "title": "Holidays Are Important For Spaniards",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1565,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120daac87f3820954c81",
+    "tags": [
+      "oneself",
+      "body"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-25T12:00:00.000Z",
+    "duration": 199,
+    "title": "My Head",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 632,
+    "seriesId": null,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123baac87f3820954d21",
+    "tags": [
+      "famous people",
+      "sports",
+      "real stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-13T12:00:00.000Z",
+    "duration": 290,
+    "title": "🚴 Alfonsina Strada 🚴",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1207,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121aaac87f3820954caf",
+    "tags": [
+      "movietalk",
+      "tv shows"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-10-05T12:00:00.000Z",
+    "duration": 914,
+    "title": "Movietalk! Los Serrano 📺",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1378,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a022c6707e00209d67",
+    "tags": [
+      "language learning",
+      "personal stories"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-03-12T02:45:51.000Z",
+    "duration": 1098,
+    "title": "Andrea's experience learning languages",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1912,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509fee70ce4bafba31f6",
+    "tags": [
+      "children",
+      "family"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-17T09:51:16.000Z",
+    "duration": 545,
+    "title": "Talking about babies",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1665,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a122c6707e00209d69",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-03-09T05:27:03.000Z",
+    "duration": 740,
+    "title": "Things my room needs to have",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1769,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508eee70ce4bafba31c5",
+    "tags": [
+      "video games",
+      "daily life"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-11T12:00:07.000Z",
+    "duration": 2803,
+    "title": "Playing The Sims",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1548,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a422c6707e00209d75",
+    "tags": [
+      "daily life",
+      "school"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-09T05:09:31.000Z",
+    "duration": 487,
+    "title": "Excuses we make to not study",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 2000,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a122c6707e00209d6b",
+    "tags": [
+      "movie reviews"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-03-09T05:25:27.000Z",
+    "duration": 578,
+    "title": "Movie: Jojo Rabbit",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1856,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ab22c6707e00209d8c",
+    "tags": [
+      "self-improvement",
+      "religion",
+      "philosophy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-25T12:00:00.000Z",
+    "duration": 554,
+    "title": "The Meaning of Life",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "difficultyScore": 1891,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508eee70ce4bafba31c4",
+    "tags": [
+      "health",
+      "tourism & travel",
+      "china"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-12T08:08:43.000Z",
+    "duration": 645,
+    "title": "The Coronavirus in China",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 2012,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a7ee70ce4bafba3211",
+    "tags": [
+      "literature",
+      "fantasy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-05T07:55:20.000Z",
+    "duration": 655,
+    "title": "Book: The Little Prince",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1563,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1225aac87f3820954cd6",
+    "tags": [
+      "spain",
+      "culture",
+      "spain"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-07-09T14:00:01.000Z",
+    "duration": 677,
+    "title": "7 polite and impolite things in Spain",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1187,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1239aac87f3820954d1a",
+    "tags": [
+      "spain",
+      "legends",
+      "culture",
+      "catalonia"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-23T06:00:07.000Z",
+    "duration": 377,
+    "title": "🌹 Legend of Sant Jordi 🌹",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1103,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11bdaac87f3820954b6e",
+    "tags": [
+      "work",
+      "life abroad"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-01T10:09:06.000Z",
+    "duration": 948,
+    "title": "Life as a Digital Nomad",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1742,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c9aac87f3820954b95",
+    "tags": [
+      "fiction stories",
+      "surprise ending"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-12T12:00:00.000Z",
+    "duration": 748,
+    "title": "Story of The Sick Painter",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 5,
+    "difficultyScore": 1581,
+    "soundQuality": "other",
+    "seriesId": "655c46ab4ff79db5c63d0362",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1200aac87f3820954c56",
+    "tags": [
+      "fiction stories",
+      "humor"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-24T12:00:00.000Z",
+    "duration": 325,
+    "title": "The Old Man And The Radio",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1165,
+    "soundQuality": "other",
+    "episodeNumber": 1,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1208aac87f3820954c71",
+    "tags": [
+      "tourism & travel",
+      "barcelona"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-02-28T20:15:36.000Z",
+    "duration": 557,
+    "title": "5 Spots You Can't Miss In Barcelona",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1196,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a0aac87f3820954b06",
+    "tags": [
+      "daily life",
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-06-17T13:18:19.000Z",
+    "duration": 766,
+    "title": "My Mom's Desserts",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1549,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11eeaac87f3820954c15",
+    "tags": [
+      "q&a"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-09T12:00:00.000Z",
+    "duration": 673,
+    "title": "Questions & Answers!",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1132,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1233aac87f3820954d07",
+    "tags": [
+      "spain",
+      "festivals",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-12T15:08:15.000Z",
+    "duration": 545,
+    "title": "Carnival",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1447,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1210aac87f3820954c8e",
+    "tags": [
+      "spain",
+      "culture",
+      "society"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-24T12:00:00.000Z",
+    "duration": 414,
+    "title": "5 Things I Love About Spain",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 931,
+    "soundQuality": "other",
+    "episodeNumber": 7,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1232aac87f3820954d01",
+    "tags": [
+      "sports",
+      "real stories",
+      "famous people",
+      "barcelona"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-19T12:00:00.000Z",
+    "duration": 420,
+    "title": "Leo Messi 🇦🇷⚽️",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1041,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f2aac87f3820954c26",
+    "tags": [
+      "daily life",
+      "drinks",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Núria",
+      "Mariona"
+    ],
+    "publishedAt": "2018-08-23T15:00:04.000Z",
+    "duration": 614,
+    "title": "Drinks We Like",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 918,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5094ee70ce4bafba31d9",
+    "tags": [
+      "latin america",
+      "culture",
+      "christmas",
+      "colombia"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-01-28T12:00:00.000Z",
+    "duration": 843,
+    "title": "Christmas in Colombia",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1850,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5090ee70ce4bafba31cd",
+    "tags": [
+      "nature",
+      "daily life",
+      "housework"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-30T10:07:28.000Z",
+    "duration": 477,
+    "title": "Taking care of plants",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1821,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509eee70ce4bafba31f2",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-01-22T12:00:07.000Z",
+    "duration": 1009,
+    "title": "I hate snow",
+    "level": "advanced",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1929,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5095ee70ce4bafba31dd",
+    "tags": [
+      "mexico"
+    ],
+    "guides": [
+      "Tamara"
+    ],
+    "publishedAt": "2020-01-27T09:16:51.000Z",
+    "duration": 736,
+    "title": "My hometown, Cuernavaca",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1842,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a0ee70ce4bafba31fc",
+    "tags": [
+      "spain"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-21T12:00:00.000Z",
+    "duration": 687,
+    "title": "Living in the Basque Country",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1651,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a1ee70ce4bafba31fd",
+    "tags": [
+      "i show you around",
+      "barcelona",
+      "spain",
+      "shopping"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-30T12:00:15.000Z",
+    "duration": 694,
+    "title": "St. Joseph market (La Boqueria) in Barcelona",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1526,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11daaac87f3820954bcf",
+    "tags": [
+      "games",
+      "fiction stories",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Sonia & Alberto"
+    ],
+    "publishedAt": "2019-02-09T12:00:07.000Z",
+    "duration": 782,
+    "title": "Story Game: Dream On",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1621,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1206aac87f3820954c69",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-17T12:00:00.000Z",
+    "duration": 498,
+    "title": "The Lost Scarf",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1265,
+    "soundQuality": "other",
+    "episodeNumber": 29,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1224aac87f3820954cd1",
+    "tags": [
+      "tourism & travel",
+      "barcelona",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-07-15T15:00:43.000Z",
+    "duration": 402,
+    "title": "Tere is visiting Barcelona",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1176,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5086ee70ce4bafba31a9",
+    "tags": [
+      "love & relationships",
+      "latin america",
+      "united states"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-02-18T04:53:58.000Z",
+    "duration": 515,
+    "title": "Differences between Latin and US women",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1927,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11beaac87f3820954b72",
+    "tags": [
+      "language learning",
+      "tv shows"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-03T12:00:05.000Z",
+    "duration": 458,
+    "title": "Best TV Series for Beginners",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 871,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f7aac87f3820954c34",
+    "tags": [
+      "daily life",
+      "home",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Karlos"
+    ],
+    "publishedAt": "2018-07-15T15:00:03.000Z",
+    "duration": 427,
+    "title": "Karlos' House",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1342,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f9aac87f3820954c3c",
+    "tags": [
+      "history",
+      "spain",
+      "war"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-06-21T12:00:00.000Z",
+    "duration": 375,
+    "title": "The Arab Invasion — History of Spain Ep. 4",
+    "level": "intermediate",
+    "private": false,
+    "episodeNumber": 4,
+    "seriesId": "6409ac7e112debe7aa739dc3",
+    "difficultyScore": 1283,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508dee70ce4bafba31c1",
+    "tags": [
+      "society",
+      "china"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-12T08:12:50.000Z",
+    "duration": 870,
+    "title": "Debunking stereotypes about Chinese people",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1727,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f1aac87f3820954c23",
+    "tags": [
+      "let's play games",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Toni"
+    ],
+    "publishedAt": "2018-08-29T12:00:00.000Z",
+    "duration": 991,
+    "title": "RPG: Desert Island (2/2)",
+    "level": "intermediate",
+    "private": true,
+    "difficultyScore": 1777,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1207aac87f3820954c6d",
+    "tags": [
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-10T16:00:04.000Z",
+    "duration": 458,
+    "title": "How To Attract A Spanish Guy",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1304,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1207aac87f3820954c6f",
+    "tags": [
+      "society",
+      "catalonia",
+      "spain",
+      "law"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-04T12:00:00.000Z",
+    "duration": 541,
+    "title": "The Catalan Independence Referendum 2/2",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1477,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ddaac87f3820954bdc",
+    "tags": [
+      "language learning",
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-21T12:00:00.000Z",
+    "duration": 666,
+    "title": "How I Learned French",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1242,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1229aac87f3820954ce3",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-18T12:00:00.000Z",
+    "duration": 267,
+    "title": "The Woman and the Coin, a story from Pakistan",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1343,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120caac87f3820954c80",
+    "tags": [
+      "latin america",
+      "culture",
+      "music",
+      "dance"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-29T12:00:00.000Z",
+    "duration": 464,
+    "title": "Bachata Dance",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1262,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1210aac87f3820954c8f",
+    "tags": [
+      "real stories",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-22T12:00:00.000Z",
+    "duration": 273,
+    "title": "The Sick Hamster",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1065,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f0aac87f3820954c1d",
+    "tags": [
+      "science",
+      "nature"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-09-18T12:00:00.000Z",
+    "duration": 301,
+    "title": "Why Do Clouds Float?",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1234,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11efaac87f3820954c1b",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-09-21T15:00:00.000Z",
+    "duration": 719,
+    "title": "I lost my flight to the US 😭",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1360,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5095ee70ce4bafba31de",
+    "tags": [
+      "society"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-27T09:04:58.000Z",
+    "duration": 886,
+    "title": "The police",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1564,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c379e22c6707e00209d61",
+    "tags": [
+      "feelings"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-12T02:58:18.000Z",
+    "duration": 448,
+    "title": "Fear of the dark",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1801,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508eee70ce4bafba31c6",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-08T12:00:02.000Z",
+    "duration": 1027,
+    "title": "Interviewing Lindie Botes",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1288,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11cbaac87f3820954b9e",
+    "tags": [
+      "riddles"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-04T12:00:00.000Z",
+    "duration": 364,
+    "title": "Riddle: This bench...",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 3,
+    "difficultyScore": 1408,
+    "seriesId": "64de94d479223a9ad0352333",
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1233aac87f3820954d04",
+    "tags": [
+      "personal stories",
+      "invited guests",
+      "tourism & travel",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Toni"
+    ],
+    "publishedAt": "2017-05-16T12:00:00.000Z",
+    "duration": 532,
+    "title": "Toni's Bizarre Trip",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1268,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d6aac87f3820954bc3",
+    "tags": [
+      "personal stories",
+      "sports",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Maximiliano"
+    ],
+    "publishedAt": "2019-03-08T12:00:00.000Z",
+    "duration": 384,
+    "title": "Car Racing",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1782,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1227aac87f3820954cdd",
+    "tags": [
+      "food",
+      "spain"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-27T21:49:01.000Z",
+    "duration": 779,
+    "title": "My 5 favorite Spanish dishes 🍅🐙🍞",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1164,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11edaac87f3820954c14",
+    "tags": [
+      "drinks",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T07:01:19.000Z",
+    "duration": 442,
+    "title": "Things she likes to drink",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 590,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a8aac87f3820954b25",
+    "tags": [
+      "fiction stories",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-06-21T12:00:00.000Z",
+    "duration": 332,
+    "title": "A Lost Puppy (2/3)",
+    "level": "beginner",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1060,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1213aac87f3820954c96",
+    "tags": [
+      "personal stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-13T12:00:00.000Z",
+    "duration": 516,
+    "title": "My First Kiss",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1233,
+    "soundQuality": "other",
+    "episodeNumber": 16,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ffaac87f3820954c53",
+    "tags": [
+      "fiction stories",
+      "humor"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-27T12:00:00.000Z",
+    "duration": 368,
+    "title": "The Doctor Recommends...",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1013,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5090ee70ce4bafba31cb",
+    "tags": [
+      "personal stories",
+      "children"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-01-30T10:09:11.000Z",
+    "duration": 415,
+    "title": "A hard childhood",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1943,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a7ee70ce4bafba3212",
+    "tags": [
+      "daily life",
+      "concept"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-06T08:10:18.000Z",
+    "duration": 323,
+    "title": "Things that hurt",
+    "level": "superbeginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1038,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1231aac87f3820954d00",
+    "tags": [
+      "tourism & travel",
+      "invited guests",
+      "life abroad",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Toni"
+    ],
+    "publishedAt": "2017-05-20T12:00:00.000Z",
+    "duration": 625,
+    "title": "Toni in Hong Kong",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1293,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122eaac87f3820954cf3",
+    "tags": [
+      "personal stories",
+      "tourism & travel",
+      "united kingdom"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-02T12:00:00.000Z",
+    "duration": 364,
+    "title": "I'm going to London! 🇬🇧🎡",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1067,
+    "soundQuality": "other",
+    "episodeNumber": 26,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1207aac87f3820954c6c",
+    "tags": [
+      "news"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-08T12:00:00.000Z",
+    "duration": 431,
+    "title": "News About 2 Women",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1239,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121faac87f3820954cc0",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-08-27T12:00:00.000Z",
+    "duration": 402,
+    "title": "The Original Story of Cinderella 1/5",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1037,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11faaac87f3820954c42",
+    "tags": [
+      "tales",
+      "fiction stories",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-06-07T12:00:00.000Z",
+    "duration": 267,
+    "title": "The Rooster And The Pearl",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1174,
+    "soundQuality": "other",
+    "episodeNumber": 2,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122eaac87f3820954cf4",
+    "tags": [
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-01T12:31:10.000Z",
+    "duration": 374,
+    "title": "Tapas! 🍤🧀🐟",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1236,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123faac87f3820954d2f",
+    "tags": [
+      "spain",
+      "festivals",
+      "culture",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-13T22:00:35.000Z",
+    "duration": 742,
+    "title": "Running with the bulls: Sanfermines",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1272,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c8aac87f3820954b93",
+    "tags": [
+      "drinks"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-12T04:51:28.000Z",
+    "duration": 811,
+    "title": "Types of Teas I Like",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1402,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e6aac87f3820954bf9",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-30T12:00:00.000Z",
+    "duration": 238,
+    "title": "The Fable Of The Rabbits And The Frogs",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1148,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1209aac87f3820954c76",
+    "tags": [
+      "personal stories",
+      "health",
+      "latin america",
+      "mexico",
+      "hospital"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-02-18T12:00:00.000Z",
+    "duration": 513,
+    "title": "I Got Sick During A Trip",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1250,
+    "soundQuality": "other",
+    "episodeNumber": 23,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11deaac87f3820954bdd",
+    "tags": [
+      "personal stories",
+      "self-improvement",
+      "feelings"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-19T12:00:00.000Z",
+    "duration": 702,
+    "title": "How I Managed To Forgive",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 1,
+    "difficultyScore": 1619,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a2ee70ce4bafba3202",
+    "tags": [
+      "health",
+      "food"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-10T07:32:44.000Z",
+    "duration": 570,
+    "title": "Talking about nutrition",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1640,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c379b22c6707e00209d5b",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Tomás"
+    ],
+    "publishedAt": "2020-03-12T03:07:04.000Z",
+    "duration": 464,
+    "title": "The advantages of being bilingual",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1902,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c379d22c6707e00209d5c",
+    "tags": [
+      "acting",
+      "work"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-03-12T12:00:00.000Z",
+    "duration": 602,
+    "title": "The actor selection process",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1761,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122aaac87f3820954ce5",
+    "tags": [
+      "spain",
+      "legends",
+      "culture"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-16T12:00:00.000Z",
+    "duration": 332,
+    "title": "Legend of La Encantada",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1347,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e6aac87f3820954bfa",
+    "tags": [
+      "personal stories",
+      "china",
+      "restaurants",
+      "food"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-24T15:00:03.000Z",
+    "duration": 492,
+    "title": "Accident In The Restaurant",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 871,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5095ee70ce4bafba31df",
+    "tags": [
+      "tv shows"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-27T08:55:28.000Z",
+    "duration": 718,
+    "title": "Black Mirror, Sandra's favourite TV series",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1693,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d4aac87f3820954bbd",
+    "tags": [
+      "spain",
+      "culture",
+      "history"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-02T12:00:00.000Z",
+    "duration": 333,
+    "title": "The Origin of the Name of Spain",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1290,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f2aac87f3820954c25",
+    "tags": [
+      "animals",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Amey"
+    ],
+    "publishedAt": "2018-08-26T17:47:10.000Z",
+    "duration": 562,
+    "title": "Animals We Like",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1150,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d8aac87f3820954bc9",
+    "tags": [
+      "daily life",
+      "hypothetical situations",
+      "home",
+      "conversations",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo",
+      "Sonia & Alberto"
+    ],
+    "publishedAt": "2019-02-18T12:00:05.000Z",
+    "duration": 700,
+    "title": "Sonia & Alberto's Ideal House",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1451,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1215aac87f3820954c9d",
+    "tags": [
+      "real stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-11-29T12:00:00.000Z",
+    "duration": 289,
+    "title": "The Girl On The Bus",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1094,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11daaac87f3820954bd1",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-08T12:00:00.000Z",
+    "duration": 504,
+    "title": "The Plateau Is a Myth",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 14,
+    "difficultyScore": 1551,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d6aac87f3820954bc1",
+    "tags": [
+      "personal stories",
+      "animals",
+      "conversations",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo",
+      "Maximiliano"
+    ],
+    "publishedAt": "2019-02-28T12:00:00.000Z",
+    "duration": 362,
+    "title": "The Story of the Lizard",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1499,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1240aac87f3820954d32",
+    "tags": [
+      "personal stories",
+      "cooking",
+      "japan"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-03T12:00:00.000Z",
+    "duration": 517,
+    "title": "Cooking potatoes",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1306,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1201aac87f3820954c58",
+    "tags": [
+      "spain",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-22T12:00:00.000Z",
+    "duration": 491,
+    "title": "The Canary Islands",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1273,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1216aac87f3820954ca3",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-10-30T12:00:00.000Z",
+    "duration": 410,
+    "title": "The UK Incident",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1186,
+    "soundQuality": "other",
+    "episodeNumber": 14,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5087ee70ce4bafba31ae",
+    "tags": [
+      "tv shows",
+      "children"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-02-18T02:36:13.000Z",
+    "duration": 513,
+    "title": "Cartoons Sandra watched as a kid",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1635,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a7ee70ce4bafba3214",
+    "tags": [
+      "festivals",
+      "i show you around",
+      "barcelona",
+      "spain",
+      "shopping"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-12-30T12:46:53.000Z",
+    "duration": 559,
+    "title": "Barcelona's Christmas market",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1564,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a0ee70ce4bafba31f9",
+    "tags": [
+      "language"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-17T09:27:01.000Z",
+    "duration": 577,
+    "title": "Explaining untranslatable words from other languages",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1737,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11d1aac87f3820954bb0",
+    "tags": [
+      "children",
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-22T13:16:21.000Z",
+    "duration": 397,
+    "title": "We Built Bird Houses, but...",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1463,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11eeaac87f3820954c18",
+    "tags": [
+      "tales",
+      "fiction stories",
+      "animals"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-09-30T15:00:01.000Z",
+    "duration": 215,
+    "title": "The Fox And The Crow",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 876,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e0aac87f3820954be4",
+    "tags": [
+      "personal stories",
+      "thailand"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-12-27T12:00:00.000Z",
+    "duration": 397,
+    "title": "Why Am I In Thailand?",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1247,
+    "soundQuality": "other",
+    "episodeNumber": 35,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5086ee70ce4bafba31a8",
+    "tags": [
+      "christmas",
+      "festivals",
+      "culture"
+    ],
+    "guides": [
+      "Lorena"
+    ],
+    "publishedAt": "2020-02-18T04:55:10.000Z",
+    "duration": 249,
+    "title": "Go back home like turrón",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1645,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11dfaac87f3820954be3",
+    "tags": [
+      "oneself"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-02T12:00:02.000Z",
+    "duration": 561,
+    "title": "Things I Hate",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 982,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1227aac87f3820954cdb",
+    "tags": [
+      "video games"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-30T12:00:00.000Z",
+    "duration": 1281,
+    "title": "Let's Play Minecraft!",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1117,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11b6aac87f3820954b56",
+    "tags": [
+      "livestreams",
+      "q&a"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-24T12:00:00.000Z",
+    "duration": 7461,
+    "title": "Dreaming Spanish 1st beginner livestream!",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "seriesId": null,
+    "difficultyScore": 1533,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122daac87f3820954cf0",
+    "tags": [
+      "humor"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-05T12:00:00.000Z",
+    "duration": 655,
+    "title": "The 5 Looks of Spanish Girls",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1358,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e4aac87f3820954bf4",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-11-08T12:00:00.000Z",
+    "duration": 426,
+    "title": "Fable Of The Wolf And The Dog",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1125,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1219aac87f3820954cab",
+    "tags": [
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-10-13T15:00:04.000Z",
+    "duration": 1863,
+    "title": "Pickpocket story",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1711,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11eaaac87f3820954c07",
+    "tags": [
+      "concept",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-12T01:03:24.000Z",
+    "duration": 619,
+    "title": "Game: Things That Come In Pairs",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 767,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1211aac87f3820954c90",
+    "tags": [
+      "tourism & travel",
+      "show and tell",
+      "invited guests",
+      "flying",
+      "humor",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2018-01-09T12:00:00.000Z",
+    "duration": 1372,
+    "title": "What's In My Luggage",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1383,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5090ee70ce4bafba31cc",
+    "tags": [
+      "history",
+      "sports"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-30T10:08:24.000Z",
+    "duration": 535,
+    "title": "The origin of the Olympic Games",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1946,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1223aac87f3820954ccd",
+    "tags": [
+      "daily life",
+      "home",
+      "mexico",
+      "latin america",
+      "conversations",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-07-20T15:23:19.000Z",
+    "duration": 496,
+    "title": "Tere's Home",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1172,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e8aac87f3820954c01",
+    "tags": [
+      "family",
+      "oneself"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-15T15:00:11.000Z",
+    "duration": 588,
+    "title": "My Family",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 918,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509aee70ce4bafba31e7",
+    "tags": [
+      "fiction stories",
+      "surprise ending",
+      "fantasy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-24T12:00:00.000Z",
+    "duration": 1180,
+    "title": "Story of the wishes",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 3,
+    "difficultyScore": 1690,
+    "soundQuality": "other",
+    "seriesId": "655c460a4ff79db5c63d0329",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a022c6707e00209d68",
+    "tags": [
+      "feelings"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-03-12T02:45:05.000Z",
+    "duration": 469,
+    "title": "Our biggest fears",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1697,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37aa22c6707e00209d8a",
+    "tags": [
+      "let's play games",
+      "concept"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-29T12:00:01.000Z",
+    "duration": 751,
+    "title": "What's hotter?",
+    "level": "superbeginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 995,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509fee70ce4bafba31f8",
+    "tags": [
+      "fiction stories",
+      "surprise ending",
+      "fantasy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-17T12:00:00.000Z",
+    "duration": 478,
+    "title": "Story: An honest mirror",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 3,
+    "difficultyScore": 1603,
+    "soundQuality": "other",
+    "seriesId": "655c46c64ff79db5c63d0376",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a522c6707e00209d77",
+    "tags": [
+      "tourism & travel",
+      "colombia"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-03-17T12:00:00.000Z",
+    "duration": 771,
+    "title": "What to visit in Bogota",
+    "level": "advanced",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1710,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ab22c6707e00209d8d",
+    "tags": [
+      "abilities"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-02-25T06:51:42.000Z",
+    "duration": 622,
+    "title": "Andrea's useless superpowers",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1914,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a222c6707e00209d6c",
+    "tags": [
+      "money",
+      "self-improvement",
+      "business",
+      "economics"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-03-09T05:24:08.000Z",
+    "duration": 761,
+    "title": "Investment",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1968,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a422c6707e00209d76",
+    "tags": [
+      "literature"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-03-09T12:00:00.000Z",
+    "duration": 838,
+    "title": "Book: Ojos de perro siberiano",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1978,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c6aac87f3820954b8c",
+    "tags": [
+      "riddles"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-19T12:00:00.000Z",
+    "duration": 371,
+    "title": "Riddle: A Little Box...",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 2,
+    "difficultyScore": 1351,
+    "seriesId": "64de94d479223a9ad0352333",
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11dbaac87f3820954bd3",
+    "tags": [
+      "games",
+      "fiction stories",
+      "fantasy",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Sonia & Alberto"
+    ],
+    "publishedAt": "2019-02-07T12:00:07.000Z",
+    "duration": 1204,
+    "title": "Story Game: Once Upon a Time",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1387,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1205aac87f3820954c67",
+    "tags": [
+      "legends",
+      "latin america",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-22T12:00:00.000Z",
+    "duration": 499,
+    "title": "The Legend Of Maize",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1298,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1237aac87f3820954d14",
+    "tags": [
+      "famous people",
+      "art",
+      "mexico",
+      "latin america"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-29T12:00:00.000Z",
+    "duration": 308,
+    "title": "Artist Frida Kahlo",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1162,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121eaac87f3820954cbe",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-08-31T12:00:00.000Z",
+    "duration": 441,
+    "title": "The Original Story of Cinderella 3/5",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1199,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ecaac87f3820954c0f",
+    "tags": [
+      "fiction stories",
+      "invited guests",
+      "children"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T10:37:02.000Z",
+    "duration": 365,
+    "title": "The Boy Who Ate 2 Of Each",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 770,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122baac87f3820954cea",
+    "tags": [
+      "spain",
+      "legends",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-11T12:00:00.000Z",
+    "duration": 461,
+    "title": "Legend of the butterfly",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1077,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11cdaac87f3820954ba3",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-02-26T12:00:00.000Z",
+    "duration": 446,
+    "title": "Why I love podcasts (and you should too)",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 34,
+    "difficultyScore": 1454,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5093ee70ce4bafba31d5",
+    "tags": [
+      "personal stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-30T08:28:32.000Z",
+    "duration": 660,
+    "title": "I was into pickup",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1735,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f4aac87f3820954c2b",
+    "tags": [
+      "tourism & travel",
+      "spain",
+      "barcelona",
+      "invited guests",
+      "conversations",
+      "geography"
+    ],
+    "guides": [
+      "Pablo",
+      "Núria"
+    ],
+    "publishedAt": "2018-08-11T12:00:00.000Z",
+    "duration": 616,
+    "title": "Majorca VS Barcelona",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1088,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1222aac87f3820954cca",
+    "tags": [
+      "tourism & travel",
+      "china",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-07-25T21:39:10.000Z",
+    "duration": 587,
+    "title": "When Tere Lived in Taiwan",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1133,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a522c6707e00209d79",
+    "tags": [
+      "language learning",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-03-09T12:00:10.000Z",
+    "duration": 1590,
+    "title": "With Oso Latino Habla Español",
+    "level": "advanced",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 2093,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a8aac87f3820954b22",
+    "tags": [
+      "technology",
+      "society"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-27T13:46:28.000Z",
+    "duration": 1372,
+    "title": "Drones",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1727,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121aaac87f3820954cb0",
+    "tags": [
+      "daily life",
+      "drinks"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-10-03T12:00:00.000Z",
+    "duration": 232,
+    "title": "I like tea",
+    "level": "superbeginner",
+    "private": true,
+    "difficultyScore": 683,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11edaac87f3820954c12",
+    "tags": [
+      "concept",
+      "oneself",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T09:00:36.000Z",
+    "duration": 542,
+    "title": "Does Luna Like Green Things?",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 766,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508aee70ce4bafba31b6",
+    "tags": [
+      "life abroad",
+      "mexico"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-02-12T12:00:00.000Z",
+    "duration": 795,
+    "title": "Why I moved to Mexico",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1970,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a8ee70ce4bafba3216",
+    "tags": [
+      "sports"
+    ],
+    "guides": [
+      "Lorena"
+    ],
+    "publishedAt": "2020-01-03T12:00:00.000Z",
+    "duration": 701,
+    "title": "I don't like competition",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "seriesId": null,
+    "difficultyScore": 1716,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f9aac87f3820954c3e",
+    "tags": [
+      "daily life",
+      "money"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-06-16T12:00:00.000Z",
+    "duration": 903,
+    "title": "Spanish Coins & Bills",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1209,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120eaac87f3820954c88",
+    "tags": [
+      "spain",
+      "art",
+      "famous people",
+      "acting"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-07T16:26:58.000Z",
+    "duration": 408,
+    "title": "Penélope Cruz",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1156,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a922c6707e00209d86",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Lorena"
+    ],
+    "publishedAt": "2020-03-03T02:15:39.000Z",
+    "duration": 666,
+    "title": "Long hair VS short hair",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1745,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c1aac87f3820954b7a",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-29T12:00:00.000Z",
+    "duration": 332,
+    "title": "Count Hours, Not Years",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "episodeNumber": 15,
+    "difficultyScore": 1322,
+    "soundQuality": "podcast-friendly",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e1aac87f3820954be7",
+    "tags": [
+      "spain",
+      "music",
+      "art",
+      "famous people"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-14T12:00:03.000Z",
+    "duration": 635,
+    "title": "Rosalía",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1343,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e2aac87f3820954bec",
+    "tags": [
+      "language learning"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-12-06T03:32:00.000Z",
+    "duration": 525,
+    "title": "My Dream For This Channel",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1350,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1215aac87f3820954c9f",
+    "tags": [
+      "horror",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-11-08T12:00:00.000Z",
+    "duration": 408,
+    "title": "The Basement",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1327,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f6aac87f3820954c33",
+    "tags": [
+      "culture",
+      "history"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-07-21T12:00:00.000Z",
+    "duration": 386,
+    "title": "The Origin Of Numbers",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1115,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122caac87f3820954cef",
+    "tags": [
+      "spain",
+      "culture",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-06T12:00:00.000Z",
+    "duration": 386,
+    "title": "Marriage in Spain 💏❤️💒",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1085,
+    "soundQuality": "other",
+    "episodeNumber": 11,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a3ee70ce4bafba3205",
+    "tags": [
+      "culture",
+      "society"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-10T06:59:10.000Z",
+    "duration": 1071,
+    "title": "Pablo's thoughts on tattoos",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1596,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a0aac87f3820954b09",
+    "tags": [
+      "tv shows"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-06-27T00:06:05.000Z",
+    "duration": 1364,
+    "title": "La Casa de Papel, Episode 1 Explained",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1724,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d119baac87f3820954af3",
+    "tags": [
+      "riddles"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-06-24T12:00:00.000Z",
+    "duration": 460,
+    "title": "Riddle: Walks around the market...",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 7,
+    "difficultyScore": 1588,
+    "seriesId": "64de94d479223a9ad0352333",
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1229aac87f3820954ce2",
+    "tags": [
+      "society",
+      "spain",
+      "economics"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-19T12:00:00.000Z",
+    "duration": 461,
+    "title": "Spanish Revolution 🙋🙋🙋🙋",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1397,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e508eee70ce4bafba31c7",
+    "tags": [
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-06T12:00:19.000Z",
+    "duration": 159,
+    "title": "I got married!",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1347,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11c6aac87f3820954b8a",
+    "tags": [
+      "philosophy"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-21T11:20:49.000Z",
+    "duration": 539,
+    "title": "My Favorite Philosopher",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1650,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d123eaac87f3820954d2b",
+    "tags": [
+      "personal stories",
+      "school",
+      "children"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-03-18T12:00:00.000Z",
+    "duration": 376,
+    "title": "Pranking The Librarian",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1340,
+    "soundQuality": "other",
+    "episodeNumber": 12,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1218aac87f3820954ca8",
+    "tags": [
+      "personal stories",
+      "invited guests",
+      "china",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2017-10-20T12:00:00.000Z",
+    "duration": 642,
+    "title": "Adrià's problems in China",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1463,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a722c6707e00209d80",
+    "tags": [
+      "home",
+      "show and tell",
+      "daily life"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-03-03T04:11:06.000Z",
+    "duration": 554,
+    "title": "Andrea is moving again",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1928,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a3ee70ce4bafba3204",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-10T07:15:20.000Z",
+    "duration": 568,
+    "title": "Playing Never Have I Ever",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1672,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5099ee70ce4bafba31e4",
+    "tags": [
+      "tourism & travel"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-24T08:04:08.000Z",
+    "duration": 516,
+    "title": "Things I avoid and enjoy when travelling",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1495,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ad22c6707e00209d94",
+    "tags": [
+      "acting"
+    ],
+    "guides": [
+      "Marce"
+    ],
+    "publishedAt": "2020-02-25T12:00:00.000Z",
+    "duration": 630,
+    "title": "Why you should go watch theater",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1987,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a8ee70ce4bafba3215",
+    "tags": [
+      "sitcom",
+      "fiction stories",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-12-31T12:54:21.000Z",
+    "duration": 842,
+    "title": "One ❤ One Not Always Two (4/10)",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1504,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1213aac87f3820954c99",
+    "tags": [
+      "festivals",
+      "culture",
+      "christmas",
+      "spain"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-07T17:15:50.000Z",
+    "duration": 393,
+    "title": "Christmas in Spain",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1107,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1237aac87f3820954d13",
+    "tags": [
+      "spain",
+      "festivals",
+      "culture",
+      "christmas"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-30T08:28:55.000Z",
+    "duration": 276,
+    "title": "Spanish Santa Claus",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1213,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d121daac87f3820954cba",
+    "tags": [
+      "debates",
+      "invited guests",
+      "love & relationships"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2017-09-02T15:00:00.000Z",
+    "duration": 611,
+    "title": "Debate: ❤️❤️ National or International Marriage ❤️❤️",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1531,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ecaac87f3820954c0e",
+    "tags": [
+      "games",
+      "food",
+      "invited guests"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T10:57:37.000Z",
+    "duration": 472,
+    "title": "Game: Think Of Green Food",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 662,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1235aac87f3820954d0b",
+    "tags": [
+      "spain",
+      "culture",
+      "music"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-05-08T12:00:00.000Z",
+    "duration": 491,
+    "title": "Flamenco Music 💃💃",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1210,
+    "soundQuality": "other",
+    "episodeNumber": 24,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d119caac87f3820954af7",
+    "tags": [
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-08-03T12:00:00.000Z",
+    "duration": 504,
+    "title": "Her Memories (3/3)",
+    "level": "beginner",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1369,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11dfaac87f3820954be0",
+    "tags": [
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-01-08T12:00:00.000Z",
+    "duration": 673,
+    "title": "3 Times I Hurt My Head",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1191,
+    "soundQuality": "other",
+    "episodeNumber": 11,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e2aac87f3820954bed",
+    "tags": [
+      "let's play games",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Adrià"
+    ],
+    "publishedAt": "2018-12-02T14:07:48.000Z",
+    "duration": 1024,
+    "title": "Guess The Character 3",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1158,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11fbaac87f3820954c44",
+    "tags": [
+      "daily life",
+      "oneself",
+      "body"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-06-05T12:00:00.000Z",
+    "duration": 260,
+    "title": "Parts Of The Body",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 855,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1210aac87f3820954c8d",
+    "tags": [
+      "real stories",
+      "surprise ending"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-31T16:00:10.000Z",
+    "duration": 357,
+    "title": "Surprise at the top of the mountain",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1194,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a2ee70ce4bafba3201",
+    "tags": [
+      "personal stories",
+      "work"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-10T07:41:15.000Z",
+    "duration": 551,
+    "title": "Working as a waiter",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1411,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ceaac87f3820954ba6",
+    "tags": [
+      "q&a"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-03-01T12:00:00.000Z",
+    "duration": 575,
+    "title": "Things YOU Like, Replies to My Question",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1475,
+    "soundQuality": "podcast-friendly",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11b8aac87f3820954b5b",
+    "tags": [
+      "animals",
+      "personal stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-04-17T11:37:13.000Z",
+    "duration": 638,
+    "title": "Our Only Dog",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1473,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11f3aac87f3820954c29",
+    "tags": [
+      "personal stories",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Núria",
+      "Mariona"
+    ],
+    "publishedAt": "2018-08-14T16:01:30.000Z",
+    "duration": 371,
+    "title": "Story Of 3 Friends Reunited",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1444,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1204aac87f3820954c64",
+    "tags": [
+      "spain",
+      "tourism & travel"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-03-29T12:00:00.000Z",
+    "duration": 627,
+    "title": "Ibiza! 🏝🌞",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1273,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1221aac87f3820954cc6",
+    "tags": [
+      "debates",
+      "mexico",
+      "spain",
+      "latin america",
+      "society",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-08-09T22:25:13.000Z",
+    "duration": 821,
+    "title": "Debate: Mexico VS Spain",
+    "level": "intermediate",
+    "private": false,
+    "difficultyScore": 1447,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ebaac87f3820954c0d",
+    "tags": [
+      "fiction stories",
+      "invited guests",
+      "children"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-10-11T11:34:13.000Z",
+    "duration": 426,
+    "title": "The Girl Who Loved Green",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 966,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5089ee70ce4bafba31b3",
+    "tags": [
+      "humor",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-02-14T12:00:00.000Z",
+    "duration": 493,
+    "title": "Carlitos goes to the supermarket",
+    "level": "beginner",
+    "private": false,
+    "endCutout": 11,
+    "seriesId": null,
+    "difficultyScore": 991,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a6ee70ce4bafba3210",
+    "tags": [
+      "daily life"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-05T08:13:47.000Z",
+    "duration": 495,
+    "title": "Talking about hair",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1539,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5096ee70ce4bafba31e0",
+    "tags": [
+      "society",
+      "money"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-27T07:36:46.000Z",
+    "duration": 610,
+    "title": "Gambling",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1709,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c379f22c6707e00209d64",
+    "tags": [
+      "religion",
+      "culture"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-03-12T02:49:36.000Z",
+    "duration": 570,
+    "title": "Superstitions",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1584,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509cee70ce4bafba31ee",
+    "tags": [
+      "love & relationships",
+      "18+",
+      "sex"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-24T12:00:00.000Z",
+    "duration": 1042,
+    "title": "Sex!",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1854,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5092ee70ce4bafba31d3",
+    "tags": [
+      "fiction stories",
+      "surprise ending"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-30T12:00:00.000Z",
+    "duration": 716,
+    "title": "Story: Liar Town",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 7,
+    "difficultyScore": 1700,
+    "soundQuality": "other",
+    "seriesId": "655c464e4ff79db5c63d033c",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ad22c6707e00209d92",
+    "tags": [
+      "personal stories",
+      "mexico",
+      "daily life"
+    ],
+    "guides": [
+      "Andrea"
+    ],
+    "publishedAt": "2020-02-25T06:45:10.000Z",
+    "duration": 915,
+    "title": "A hard first year in Mexico City",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 2028,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11bbaac87f3820954b66",
+    "tags": [
+      "let's play games",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Maximiliano"
+    ],
+    "publishedAt": "2019-04-24T12:00:00.000Z",
+    "duration": 728,
+    "title": "Enigma: Chess And Gun",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1730,
+    "soundQuality": "other",
+    "episodeNumber": 3,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1200aac87f3820954c57",
+    "tags": [
+      "concept"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-04-26T17:00:04.000Z",
+    "duration": 444,
+    "title": "How Many There Are Of Things",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 1032,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11a7aac87f3820954b20",
+    "tags": [
+      "fiction stories",
+      "surprise ending"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2019-05-27T12:00:00.000Z",
+    "duration": 721,
+    "title": "Story of Ignacio The Cleaner",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "episodeNumber": 8,
+    "difficultyScore": 1659,
+    "soundQuality": "other",
+    "seriesId": "655c46ab4ff79db5c63d0362",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1228aac87f3820954cdf",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-24T12:00:00.000Z",
+    "duration": 293,
+    "title": "The monk and the garden",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1248,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e509bee70ce4bafba31e8",
+    "tags": [
+      "i show you around",
+      "china"
+    ],
+    "guides": [
+      "Sandra"
+    ],
+    "publishedAt": "2020-01-24T07:05:09.000Z",
+    "duration": 489,
+    "title": "Showing you around my neighbourhood in China",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1729,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37a622c6707e00209d7b",
+    "tags": [
+      "cooking",
+      "daily life",
+      "housework"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-03-03T04:17:35.000Z",
+    "duration": 646,
+    "title": "Ways to mess up your cooking",
+    "level": "advanced",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1906,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11e8aac87f3820954c02",
+    "tags": [
+      "personal stories",
+      "school"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-11-20T12:00:00.000Z",
+    "duration": 279,
+    "title": "My Classmates Made Fun Of Me",
+    "level": "superbeginner",
+    "private": false,
+    "difficultyScore": 983,
+    "soundQuality": "other",
+    "episodeNumber": 7,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1222aac87f3820954cc9",
+    "tags": [
+      "how-to",
+      "show and tell",
+      "invited guests",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "Tere"
+    ],
+    "publishedAt": "2017-07-27T12:00:00.000Z",
+    "duration": 500,
+    "title": "How to Make Juggling Balls",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1205,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1212aac87f3820954c93",
+    "tags": [
+      "spain",
+      "culture",
+      "christmas"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-12-19T12:00:00.000Z",
+    "duration": 434,
+    "title": "Christmas Lottery!",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1224,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d120eaac87f3820954c85",
+    "tags": [
+      "society",
+      "spain",
+      "transportation"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-01-17T12:00:00.000Z",
+    "duration": 537,
+    "title": "Trains in Spain: The Station",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1238,
+    "soundQuality": "other",
+    "episodeNumber": 21,
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d1239aac87f3820954d19",
+    "tags": [
+      "spain",
+      "tourism & travel",
+      "geography"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-04-24T12:00:00.000Z",
+    "duration": 374,
+    "title": "Island of Mallorca 🏝🌞",
+    "level": "beginner",
+    "private": true,
+    "difficultyScore": 1172,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e6c37ae22c6707e00209d97",
+    "tags": [
+      "culture",
+      "society"
+    ],
+    "guides": [
+      "Lorena"
+    ],
+    "publishedAt": "2020-02-25T05:42:21.000Z",
+    "duration": 574,
+    "title": "Tattoos",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1748,
+    "soundQuality": "podcast-friendly",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e5097ee70ce4bafba31e2",
+    "tags": [
+      "society",
+      "festivals",
+      "china",
+      "conversations"
+    ],
+    "guides": [
+      "Pablo",
+      "David & Adrián"
+    ],
+    "publishedAt": "2020-01-24T12:00:00.000Z",
+    "duration": 1467,
+    "title": "Chinese New Year",
+    "level": "intermediate",
+    "private": true,
+    "endCutout": 11,
+    "difficultyScore": 1805,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122caac87f3820954ced",
+    "tags": [
+      "society",
+      "spain",
+      "catalonia",
+      "history"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-08T12:18:10.000Z",
+    "duration": 476,
+    "title": "The conflict between Catalonia and Spain",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1190,
+    "soundQuality": "other",
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d122aaac87f3820954ce7",
+    "tags": [
+      "tales",
+      "fiction stories"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2017-06-14T12:00:00.000Z",
+    "duration": 246,
+    "title": "🌹🐸 The Rose and the Toad 🐸🌹",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1240,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4d11ffaac87f3820954c50",
+    "tags": [
+      "language",
+      "history"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2018-05-10T12:00:00.000Z",
+    "duration": 417,
+    "title": "The Letter Z",
+    "level": "beginner",
+    "private": false,
+    "difficultyScore": 1326,
+    "soundQuality": "other",
+    "seriesId": null,
+    "hasAccess": true
+  },
+  {
+    "_id": "5e4e50a7ee70ce4bafba3213",
+    "tags": [
+      "i show you around",
+      "japan"
+    ],
+    "guides": [
+      "Pablo"
+    ],
+    "publishedAt": "2020-01-09T12:00:11.000Z",
+    "duration": 905,
+    "title": "Showing Fukuoka",
+    "level": "intermediate",
+    "private": false,
+    "endCutout": 11,
+    "difficultyScore": 1599,
+    "soundQuality": "other",
+    "hasAccess": true
+  }
+]
